@@ -1,0 +1,31 @@
+@charset "gb2312";
+.SeaNav ul { width: 1200px; min-width:1200px;}
+.background { min-width:1200px; _width:1200px; background:url(../images/list_bztp_13.jpg) no-repeat center top;}
+.w110 {width:110%;}
+.w1200 { width: 1200px;min-width:1200px; margin:0 auto; clear:both;}
+.warp { width: 1200px; min-width:1200px;}
+.HeaderBox .SeaSearch {float:right;}
+.position,.position a {font-size:14px; color:#666;}
+.position { padding-top:140px;}
+.Tag_Top li,.Tag_List,.Tag_List a {float:left}
+/*Tag*/
+.Tag_Top li { position:relative; width:190px; height:140px; margin-right:12px; border-radius:8px; overflow:hidden;}
+.Tag_Top span {position:absolute; top:0; left:0; display:block; width:190px; height:140px; line-height:140px; text-align:center; color:#fff; font-weight:bold; font-size:24px;}
+.Tag_foot { width:1178px; padding:10px; border:1px solid #c6c6c6; box-shadow:0 0 5px #dddcdd; background:#fff; border-radius:10px;}
+.Tag_List { width:100%; line-height:33px;}
+.Tag_List h2,.Tag_List a {color:#000; font-size:14px; white-space:nowrap; font-weight:normal;}
+.Tag_List a { margin-right:25px}
+.Tag_List a:hover,.HotKeywords a:hover {color:#1655c9;}
+/*¡–±Ì*/
+.Bz_ListTit { width:100%; height:46px; line-height:46px; border-bottom:1px solid #999;}
+.Bz_Tit {font-size:30px; color:#1f92d1; font-weight:normal;}
+.HotKeywords em,.HotKeywords a {float:left; margin-right:20px; font-size:14px; color:#666; line-height:60px;}
+.Bz_PicList li { float: left; width: 194px; height: 200px; margin: 15px 15px 0 0; border: 1px solid #cecece; background: #fff; padding: 16px 16px 5px 16px; border-radius:9px;}
+.Bz_PicList span { display: block; height: 30px; line-height: 30px; width: 100%; text-align: center; font-size: 14px; overflow:hidden; white-space:nowrap; text-overflow:ellipsis;}
+.Article_Info { display: block; height: 25px; line-height: 25px; border-top: 1px dashed #ccc; width: 100%; overflow: hidden; color: #999; font-size: 12px; }
+.Bz_PicList u { display: block; float: left; border-radius: 3px; height: 18px; line-height: 18px; text-decoration: none; margin-top: 4px; }
+.Bz_PicList u a { color: #999; padding: 0 5px; background: #f3f2f3; display: block; float: left; border-radius: 3px; height: 18px; line-height: 18px; }
+.Bz_PicList u a:hover { background: #7fcf13; color: #fff; }
+.Bz_PicList em { display: block; padding-left: 20px; height: 25px; line-height: 25px; background: url(../images/new_icons.png) no-repeat 0 -86px; float: right; padding-right: 5px; }
+/*∑÷“≥*/
+.NewPages li {display:inline-block; _zoom:1;*display:inline;}

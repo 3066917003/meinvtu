@@ -1,0 +1,16 @@
+ID:11
+网址:http://www.27270.com/ent/meinvtupian/2016/164501.html
+Header:HTTP/1.1 200 OK
+Connection:close
+Date:Mon, 03 Oct 2016 11:12:46 GMT
+Server:Microsoft-IIS/6.0
+X-Powered-By:ASP.NET,PHP/5.2.17
+Content-Type:text/html; charset=utf-8
+Content-Length:322
+
+源代码:<br />
+<b>Warning</b>:  Unexpected character in input:  ''' (ASCII=39) state=1 in <b>D:\wwwroot\27270\wwwroot\e\data\tmp\tempnews3.php</b> on line <b>127</b><br />
+<br />
+<b>Parse error</b>:  syntax error, unexpected $end, expecting ']' in <b>D:\wwwroot\27270\wwwroot\e\data\tmp\tempnews3.php</b> on line <b>127</b><br />
+
+========分隔线=======

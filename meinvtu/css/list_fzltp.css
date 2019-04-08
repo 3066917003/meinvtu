@@ -1,0 +1,47 @@
+.w1200 { width: 1200px; min-width: 1200px; margin: 0 auto; }
+.SeaNav ul { width: 1200px; min-width: 1200px }
+.warp { width: 1200px; min-width:1200px;}
+.SeaSearch {float:right;}
+.border_shadow { border: 1px solid #ccc; box-shadow: 1px 1px 1px 1px #ddd; }
+.blue { color: #1f92d1!important }
+.hotlist li {float:left;}
+.pic_list_box h1, .pic_list_box h2 { font-size: 18px; font-weight: normal; margin-top: 50px; margin-bottom: 5px; }
+.pic_list { width: 110%; }
+.pic_list li { float: left; width: 194px; height: 200px; margin: 0 15px 15px 0; border: 1px solid #cecece; background: #fff; padding: 16px 16px 5px 16px; }
+.Article_Info { display: block; height: 25px; line-height: 25px; border-top: 1px dashed #ccc; width: 100%; overflow: hidden; color: #999; font-size: 12px; }
+.pic_list_box u { display: block; float: left; border-radius: 3px; height: 18px; line-height: 18px; text-decoration: none; margin-top: 4px; }
+.pic_list_box u a { color: #999; padding: 0 5px; background: #f3f2f3; display: block; float: left; border-radius: 3px; height: 18px; line-height: 18px; }
+.pic_list_box em { display: block; padding-left: 20px; height: 25px; line-height: 25px; background: url(../images/new_icons.png) no-repeat 0 -86px; float: right; padding-right: 5px; }
+.pic_list span { display: block; height: 30px; line-height: 30px; width: 100%; text-align: center; font-size: 14px; overflow:hidden; white-space:nowrap; text-overflow:ellipsis;}
+.showhot li { display: block; width: 190px; height: 140px; overflow: hidden; position: relative; float: left; margin-right: 3px; margin-bottom: 3px; overflow: hidden; }
+.showhot { width: 579px; display: block; float: left; }
+.feizhuliu_header { overflow: hidden; }
+.showhot li span,.showhot li em { height: 30px; width: 100%; display: block; position: absolute; bottom: 0; left: 0; }
+.showhot li span { text-align: center; color: #fff; line-height: 30px;}
+.showhot li em { background:#000; filter:alpha(opacity=50);-moz-opacity:0.5;-khtml-opacity: 0.5;opacity: 0.5;}
+.feizhuliu_header .banner { width: 381px; height: 283px; background: #CCC; margin-right: 5px; }
+.FlashBody { width: 381px; height: 283px; }
+.feizhuliu_header .hotlist { width: 211px; height: 261px; background: #fff; float: left; padding: 10px; }
+.feizhuliu_header .hotlist h2 { display: block; color: #1f92d1; font-size: 18px; border-bottom: 1px solid #ddd; padding-bottom: 5px; font-weight: normal; margin-bottom: 5px; }
+.hotlist .num { font-size: 18px; font-weight: bold; margin-right: 8px; vertical-align: middle; color: #999; padding-left: 5px; }
+.hotlist a { padding: 2px 0px; display: block; width: 211px; height:25px; line-height:25px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.hotlist a:hover { background: #CCC; text-decoration: none; }
+.feizhuliu_header .tagTit { background: #fff; overflow: hidden; padding: 0 10px; }
+.feizhuliu_header .tagTit span, .feizhuliu_header .tagTit h2 { height: 38px; line-height: 38px; vertical-align: middle; width: 60px; display: block;}
+.feizhuliu_header .tagTit span { float: left; }
+.tagbox { margin-top: 30px; }
+.tagTit span { cursor: pointer; text-align: center; }
+.tagTit .active { background: #fff; }
+.feizhuliu_header .tagTit h2 {width:100%; font-size: 18px; font-weight: normal; margin-right: 30px;}
+.taglist { background: #fff; overflow: hidden; padding: 0px 5px; padding-bottom: 5px }
+.taglist a {float: left; margin-top: 5px; border-radius: 5px; padding:3px 16px; white-space:nowrap;}
+.taglist a:hover { background: #ddd; text-decoration: none }
+.FlashList, .FlashList a { width: 381px; height: 283px; overflow: hidden; display: block; }
+.FlashList a img { width: 381px; height: 283px; }
+.FlashPic em {display:block; background: #000; height: 40px; width: 381px; position: absolute; bottom: 0; left: 0; filter:alpha(opacity=50);-moz-opacity:0.5;-khtml-opacity: 0.5;opacity: 0.5;}
+.FlashPic span { font-size: 14px; color: #fff; padding-left: 14px; height: 40px; line-height: 40px; position: absolute; bottom: 0; left: 0; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.FlashPoint { width: 130px; height: 20px; position: absolute; bottom: 10px; right: 0; }
+.FlashPoint li { float: left; font-size: 14px; color: #fff; width: 20px; height: 20px; line-height: 20px; text-align: center; border-radius: 3px; background: #bfbfbf; cursor: pointer; margin-right: 5px; text-decoration: none; }
+.FlashPoint .on { background: #1f92d1 }
+.showhot span { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.NewPages li { _zoom: 1; *display:inline;}

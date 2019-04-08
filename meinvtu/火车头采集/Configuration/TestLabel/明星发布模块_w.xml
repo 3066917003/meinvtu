@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <l name="标题" value="标题标题标题" />
+  <l name="时间" value="" />
+  <l name="缩略图" value="url" />
+  <l name="人气" value="" />
+  <l name="标签" value="" />
+  <l name="出生" value="" />
+  <l name="图集说明" value="" />
+  <l name="国籍" value="" />
+  <l name="人物信息" value="" />
+  <l name="微信公众号" value="" />
+  <l name="关系" value="" />
+  <l name="背景图" value="" />
+  <l name="大图" value="pic" />
+  <l name="基本信息" value="" />
+</root>

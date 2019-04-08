@@ -1,0 +1,40 @@
+.w1200 { width: 1200px; min-width: 1200px; margin: 0 auto; }
+.SeaNav ul,.warp { width: 1200px; min-width: 1200px }
+.border_shadow { border: 1px solid #ccc; box-shadow: 1px 1px 1px 1px #ddd; }
+.SeaSearch {float:right}
+.blue { color: #1f92d1!important }
+.clear { clear: both; }
+.pic_list_box h1, .pic_list_box h2 { font-size: 24px; font-weight: normal; margin-top: 50px; margin-bottom: 5px; }
+.pic_list { width: 110%; }
+.pic_list li { float: left; width: 194px; height: 200px; margin: 0 15px 15px 0; border: 1px solid #cecece; background: #fff; padding: 16px 16px 5px 16px; }
+.Article_Info { display: block; height: 25px; line-height: 25px; border-top: 1px dashed #ccc; width: 100%; overflow: hidden; color: #999; font-size: 12px; }
+.pic_list_box u { display: block; float: left; border-radius: 3px; height: 18px; line-height: 18px; text-decoration: none; margin-top: 4px; }
+.pic_list_box u a { color: #999; padding: 0 5px; background: #f3f2f3; display: block; float: left; border-radius: 3px; height: 18px; line-height: 18px; }
+.pic_list_box em { display: block; padding-left: 20px; height: 25px; line-height: 25px; background: url(../images/new_icons.png) no-repeat 0 -86px; float: right; padding-right: 5px; }
+.pic_list span { display: block; height: 30px; line-height: 30px; width: 100%; text-align: center; font-size: 14px; }
+h2 { font-size: 18px; font-weight: normal; }
+.left { float: left; vertical-align: middle; }
+.right { float: right; vertical-align: middle; }
+.pic_list_box { margin-top: 10px; }
+.showhot .tit a { cursor: pointer }
+.topbg { background: url(../images/list_yxtp.jpg) no-repeat top center;  width: 1200px; min-width: 1200px; margin: 0 auto; height: 355px; padding-top: 80px; overflow: hidden; }
+.showhot { background: url(../images/list_yxtp_w_bg.png); padding: 15px; padding-top: 10px; width: 521px; }
+.showhot .tit { vertical-align: bottom; height: 25px; line-height: 25px; }
+.showhot .tit a { display: block; background: url(../images/reflash.png) no-repeat; padding-left: 25px; }
+.showhot .viewport { overflow: hidden; width: 110%; margin-top: 10px; height: 255px; }
+.showhot .hotlist li { float: left; position: relative; display: block; overflow: hidden; width: 170px; overflow: hidden; margin-right: 5px; margin-bottom: 5px }
+.showhot .hotlist li div { position: absolute; left: 0; bottom: 0; background: url(../images/list_yxtp_bg.png); height: 20px; width: 100%; text-align: center; vertical-align: middle; line-height: 20px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; color: #fff; }
+.showhot .hotlist li img { width: 100% }
+.banner, .vievport { width: 625px; height: 317px; background: #CCC; position: relative; }
+.banner .viewport img { width: 625px; height: 317px; }
+.viewport { width: 625px; height: 317px; overflow: hidden; }
+.banner .viewport li div { position: absolute; background: url(../images/list_yxtp_w_bg.png); width: 615px; left: 0; top: 0; height: 30px; vertical-align: middle; line-height: 30px; color: #333!important; font-size: 16px; padding-left: 10px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.banner .viewport li { display: none; }
+.banner .viewport .active { display: block; }
+.banner .piclist { background: url(../images/list_yxtp_w_bg.png); position: absolute; left: 0; bottom: 0; display: block; width: 612px; height: 100px; overflow: hidden; padding-left: 13px; }
+.banner .piclist li { float: left; overflow: hidden; width: 120px; height: 100px; }
+.banner .piclist .active { background: url(../images/list_yxtp_hdbg.png); }
+.banner .piclist li img { width: 110px; height: 82px; display: block; margin: 0 auto; margin-top: 10px; }
+.pic_list_box h1 { margin-top: 30px; }
+.NewPages li {_zoom: 1; *display:inline;}
+.pic_list span { overflow:hidden; white-space:nowrap; text-overflow:ellipsis;}

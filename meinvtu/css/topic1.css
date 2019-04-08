@@ -1,0 +1,93 @@
+/* CSS Document by:Yxeee UI Item -sea*/
+/*通用*/
+body{color: #000; font-size:12px;font-family:Helvetica,Arial,"Microsoft Yahei",sans-serif; background:#fff}
+a:link, a:visited, a:active{color: #000; text-decoration: none}
+a:hover{color: #036; text-decoration: underline}
+body, h1, h2, h3, h4, p, ul, dl, ol, dt, dd, img, form, input, textarea{margin: 0; padding: 0}
+img, input, select, textarea, iframe{vertical-align: middle}
+ol{list-style-position:inside}
+ul, dl{list-style:none}
+img{border:0}
+.l{float:left}   /*向左浮动*/
+.r{float:right} /*向右浮动*/
+.c{clear:both}
+em, b, i{font-style:normal; font-weight:normal}
+.hr10, .hr101, .hr20{clear:both; font-size:1px; line-height:100px; height:10px; overflow:hidden}
+.hr101{border-bottom: 1px dotted #ccc; height: 10px; margin-bottom: 10px}
+.hr20{height:20px}
+.bf,.bf a:link,.bf a:visited {color:#134278}
+.wf,.wf a:link,.wf a:visited {color:#fff}
+.re{position:relative}
+.oh{overflow:hidden}
+.hide {display:none}
+.show {display:block}
+.b {font-weight:bold}
+.yh {font-family:'microsoft yahei','Tahoma'}
+.oh {overflow:hidden}
+/*content*/
+.header {width:100%;height:120px;background:#fff; overflow:hidden;}
+.wrap {width:1020px; margin:0 auto;}
+.logo {background:url(../images/topic1/logo.png) no-repeat left center; width:190px; height:80px; float:left;}
+.logo a {display:block; height:80px; line-height:500px; overflow:hidden;}
+.searchBox {float:left; padding:10px 0 10px 100px; overflow:hidden; height:60px;}
+.fxBox { float:right;padding-top:10px;}
+.fxBox a {display:block; height:22px; line-height:22px; text-align:center; padding:45px 10px 0 10px; float:left; width:45px;}
+.fxBox a.ico_weixin {background:url(../images/topic1/weixin_Ico.png) no-repeat center top;}
+.fxBox a.ico_sina {background:url(../images/topic1/sina_Ico.png) no-repeat center top;}
+.fxBox a.ico_renren {background:url(../images/topic1/tengxun_Ico.png) no-repeat center top;}
+.nav {width:100%; clear:both;height:40px; overflow:hidden; background:#3b5a9d;}
+.nav ul {width:1020px; overflow:hidden; height:40px; margin:0 auto;}
+.nav ul li {float:left; padding:0 25px; line-height:40px;}
+.nav ul li a {font-size:18px;}
+.w100 {width:100%; clear:both;}
+.topBox {background:url(../images/topic1/pocityBg.png) no-repeat; width:443px; height:268px; position:relative;_background:#000 }
+.topBox h1 {height:30px; display:block; padding:30px 0 0 20px; font-size:24px; overflow:hidden; font-weight:normal;}
+.topBox p {display:block; padding:10px 20px 0 20px; text-indent:2em; font-size:14px; line-height:24px;}
+.fx {position:absolute; right:20px; bottom:5px;}
+.w800 {width:800px; float:left; overflow:hidden;}
+.w200 {width:200px; float:right; overflow:hidden}
+.noreTit {height:35px; float:left; } 
+.noreTit strong,.noreTit h2,.noreTit h3 {display:block; float:left;background:#0eaada; border-radius:3px; padding:0 8px; height:28px; overflow:hidden; line-height:28px; text-align:center; font-size:16px; font-weight:normal;box-shadow:3px 3px 3px rgba(150,150,150,0.5);}
+.noreTitMore {background:url(../images/topic1/more.png) no-repeat; width:505px; height:17px; overflow:hidden; float:right; margin-top:10px;}
+.noreTitMore a {display:block; width:42px; height:16px; overflow:hidden; float:right; line-height:300px;}
+/*底部*/
+.footer {width:100%;  background:#444; clear:both}
+.footer .warp {width:960px; margin:0 auto;}
+.footer_logo {float:left; width:200px; height:94px; overflow:hidden; background:url(../images/images.png) no-repeat 0 -160px; margin:10px 100px 0 0}
+.footer_logo a {display:block; height:94px; line-height:300px; overflow:hidden}
+.footer p {line-height:20px}
+.footer dl {float:left; line-height:20px; width:70px; padding-top:20px; margin:0 60px 0 0}
+.footer dl a:link,.footer dl a:visited {color:#fff}
+.footer dt {float:left; font-weight:bold; font-size:14px;width:100%; height:20px}
+.footer dd {float:left; clear:both; width:100%; height:20px}
+.both {clear:both;}
+.footer .center {text-align:center}
+/**/
+.contentBox1 {width:760px; padding:10px 19px; background:#FFF;box-shadow:0px 3px 3px rgba(150,150,150,0.5); border-radius:5px; overflow:hidden; border:1px solid #f0f0f0; }
+.picBox {width:100%; overflow:hidden; position:relative}
+.picBox ul {width:110%; float:left}
+.picBox li {float:left; width:180px; margin-right:13px; padding:5px 0 10px 0;}
+.picBox li span {display:block; height:30px; font-size:14px; width:100%; overflow:hidden; line-height:40px;}
+
+.sideBox {width:180px; padding:5px 9px; background:#FFF;box-shadow:0px 3px 3px rgba(150,150,150,0.5); border-radius:5px; overflow:hidden; border:1px solid #f0f0f0;}
+.sideTit {width:180px; height:32px; border-bottom:1px solid #ccc; position:relative;}
+.sideTit strong,.sideTit h2,.sideTit h3 {display:block; float:left; padding:0 10px 0 22px; height:32px; border-bottom:1px solid #0eaada; position:absolute; left:0; top:0px; line-height:32px; font-size:18px; font-weight:normal; z-index:1;}
+.ico_list {background:url(../images/topic1/list_ico.png) no-repeat left center;}
+.ico_hot {background:url(../images/topic1/hot_ico.png) no-repeat left center;}
+.ico_zan {background:url(../images/topic1/topic1/zan_Ico.png) no-repeat left center;}
+.ico_tag {background:url(../images/topic1/tag_ico.png) no-repeat left center;}
+.menuList {width:100%; overflow:hidden; float:left; clear:both;}
+.menuList li {float:left; clear:both; height:30px; width:100%; line-height:30px; border-bottom:1px dashed #eee; font-size:14px;}
+.menuList li em {display:block; float:left; width:5px; height:5px; background:#ccc;margin:12px 10px 0 10px }
+.menuList li a {color:#999;}.menuList li a:hover {color:#0eaada}
+.hotPicList {width:100%; float:left; clear:both;}
+.hotPicList li {width:100%; float:left; clear:both; margin-top:10px; overflow:hidden;}
+.hotPicList li span {display:block; line-height:22px; text-align:left; font-size:14px;}
+.TagList {width:100%; overflow:hidden; float:left; margin:10px 0 0 0;}
+.TagList a {float:left;display:inline-block; height:26px; padding:0 5px; line-height:26px; color:#666;border-radius:3px; background:#f5f5f5; white-space: nowrap; margin:0 5px 5px 0;}
+.TagList a:hover {background:#0eaada; color:#fff;}
+.hotTag {width:180px; overflow:hidden; float:left;}
+.hotTag ul {float:left;}
+.hotTag li {width:180px; float:left; margin-bottom:20px;}
+.hotTag li span {display:block; width:100%; overflow:hidden; line-height:30px; height:30px; text-align:center; font-size:14px;}
+.hotTag li img {border-radius:5px;}

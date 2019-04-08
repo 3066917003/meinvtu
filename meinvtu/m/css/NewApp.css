@@ -1,0 +1,284 @@
+body,div,h1,h2,h3,h4,h5,h6,p,ul,li,dl,dt,dd{ margin:0;padding:0;}
+body{ font:normal 100% Helvetica,Arial,"Microsoft Yahei",sans-serif;background-color:#e0e3e5}
+ul{list-style:none}
+img{ border:0px}
+a{text-decoration:none;color:#000}
+a:hover{text-decoration:none}
+i,em{font-style:normal}
+.hide{display:none!important}
+.hr10, .hr101, .hr20{clear:both;font-size:1px;line-height:100px;height:10px;overflow:hidden}
+.hr101{border-bottom:1px dotted #ccc;height:10px;margin-bottom:10px}
+.hr20{height:20px}
+.l{float:left}.r{float:right}.c,.both{clear:both}
+.wrap{width:98%;margin:0 auto;overflow:hidden;background:#fff}
+.w98{width:98%;padding:0 1%;overflow:hidden}.w98b{width:98%;padding:0 1%;overflow:hidden;background:#FFF}
+.w100{width:100%;overflow:hidden}
+.w100b{width:100%;overflow:hidden;background:#FFF}
+.headNav{width:100%;height:50px;line-height:50px;background:#f5f5f5;border-bottom:1px solid #ccc;text-align:center;position:relative}
+.headNav strong,.headNav h1,.headNav h2{display:none;text-align:center;padding:0 110px 0 65px;font-size:22px;font-weight:normal;overflow:hidden;height:50px}
+.headNav .daohang{position:absolute;height:50px;float:left;right:10px;top:0px;width:30px;background:url(../images/app/ListMenu.png) no-repeat right center;background-size:30px;overflow:hidden;line-height:300px}
+.headNav .return em{background:url(../images/app/Return_Ico.png) no-repeat left 16px;background-size:32%}
+.headNav .GoHome{display:block;float:left;width:30px;height:50px;background:url(../images/app/HomeIco.png) no-repeat left center;background-size:30px;position:absolute;left:10px;top:0px;}
+.headNav .Search{width:30px;height:50px;float:left;position:absolute;right:60px;top:0px;}
+/*.headNav .logo{float:left;width:100px;height:50px;position:absolute;right:10px;top:0px;background:url(../images/app/logo.png) no-repeat left center;background-size:100px}*/
+.headNav .logo{width:100px;height:50px;background:url(../images/app/logo.png) no-repeat left center;background-size:100px;display:inline-block}
+.headNav .AriticleLogo{width:100px;height:50px;background:url(../images/app/logo.png) no-repeat left center;background-size:100px;display:inline-block}
+.headNav .logo a,.headNav .AriticleLogo a,.headNav .GoHome a,.headNav .daohang a{display:block;height:50px;overflow:hidden;line-height:500px}
+#scroller{ position:absolute;transform:translateZ(0px);z-index:1}
+#ShowNewNav{width:100%;background:rgba(255,255,255,0.95);position:absolute;right:0px;top:50px;display:none;z-index:200}
+#shotCont{ position:relative;width:100%;overflow:hidden;z-index:199;height:101px}
+.horizontal p img{width:600px}
+.horizontal ul li{float:left;padding-right:5px}
+.vertical img{ width:300px}
+.horizon img{ width:160px}
+.shot-ul{ width:4000px}
+.PuBuLiuList,.PictureList{width:100%;overflow:hidden}
+.PuBuLiuList ul{width:49%;overflow:hidden}
+.PuBuLiuList li{float:left;clear:both;width:100%;padding-bottom:10px;align-items:stretch;vertical-align:bottom;display:inline-block;border-radius:5px;box-shadow:0px 1px 3px rgba(0, 0, 0, .25);background:#FFF;margin-bottom:10px}
+.PuBuLiuList li span,.PictureList span{display:block;height:30px;line-height:30px;font-size:14px;overflow:hidden;width:96%;padding:0 2%;text-align:center}
+.PuBuLiuList li img,.PictureList img{width:100%;height:auto;border-radius:5px 5px 0 0}
+.MinNavs{width:98%;height:30px;background:#FFF;position:relative;overflow:hidden;padding:5px 1%}
+.MinNavs .Xauto{width:100%;height:80px;overflow-x:auto}
+.MinNavs dl{width:300%;height:30px;line-height:30px}
+.MinNavs dt{float:left;padding:0 8px;background:#00a0e9;border-radius:3px;color:#fff}
+.MinNavs dd{float:left;padding:0 5px}
+.slideBox{width:98%;padding:1%;background:#fff;position:relative}
+.slideBox .bd{position:relative;z-index:0}
+.slideBox .bd li{position:relative;text-align:center}
+.slideBox .bd .tit{display:block;width:100%;position:absolute;bottom:0px;text-indent:10px;height:28px;line-height:28px;background:url(../images/app/focusBg.png) repeat-x;color:#fff;text-align:left}
+.tempWrap .tempWrap .pic a{display:block;width:100%}
+.tempWrap .tempWrap .pic img{vertical-align:top;width:100%}
+.slideBox .hd{position:absolute;height:28px;line-height:28px;bottom:10px;right:0;z-index:1}
+.slideBox .hd li{display:inline-block;width:5px;height:5px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;background:#333;text-indent:-9999px;overflow:hidden;margin:0 6px}
+#slideBox .hd li.on{background:#fff}
+.pageAll,.thisclass{display:none!important}
+.TitChannel{width:100%}
+.TitChannel h2,.TitChannel h1{font-weight:normal;padding-left:10px}
+.TitChannel .HerdIco{float:left;padding-left:8%;background:url(../images/app/heart.png) no-repeat left center;background-size:20%}
+.PicW30{width:42%}
+.PicW30 img,.PicW64 li img,.ChannelPicList img{width:100%;float:left}
+.PicW30 span,.PicW64 span,.ChannelPicList span{display:block;height:30px;line-height:30px;text-align:center;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;clear:both}
+.PicW64{width:56%;float:right}
+.PicW64 li{width:48%}
+.PicW30 em{display:block;width:100%;overflow:hidden;float:left}
+.ChannelPicList{width:100%}
+.ChannelPicList li{width:32%;overflow:hidden}
+.ChannelPicList .mr2{margin-right:2%}
+#PicW30_a{width:52%}
+#PicW64_a{width:46%}
+.flinks li{float:left;padding:0 10px;height:30px;line-height:30px}
+.flinks li a{white-space:nowrap}
+.footer{padding:20px 0;width:100%;background:#333;color:#FFF;text-align:center;line-height:30px;font-size:14px}
+.footer a:link,.footer a:visited{color:#fff}
+/*menu*/
+.MenuBox{width:100%;position:relative}
+.MenuBoxInfo{width:68%;overflow:hidden;float:right}
+.MenuBoxPic{width:30%;float:left}
+.MenuBoxPic img{width:90%;height:auto!important;padding:5%;background:#FFF}
+.MenuBoxInfo h2{font-weight:600;padding:5px 0}
+.MenuBoxInfo h2 a:link,.MenuBoxInfo h2 a:visited{color:#00a0e9}
+.MenuBoxInfo h3{float:left;padding:3% 15px;font-weight:normal;position:relative}
+.MenuBoxInfo h3 a{color:#444}
+.MenuBoxInfo h3.HotChannel{background:url(../images/hotico.gif) no-repeat top right}
+.StarBox{width:100%;float:left}
+.StarBox li{display:inline-block;width:16%;padding:5px 1.5%;text-align:center}
+.StarBox li img{width:100%;border-radius:100%}
+.TagLists li{float:left;padding:10px 15px;background:#333;margin:1%;border-radius:5px}
+.TagLists li.tit1{background:#c00}
+.TagLists li.tit2{background:#f60}
+.TagLists li.tit3{background:#393}
+.TagLists li.tit4{background:#09f}
+/*.TagLists li.tit5{background:#600}
+.TagLists li.tit6{background:#603}
+.TagLists li.tit7{background:#630}
+.TagLists li.tit8{background:#306}
+.TagLists li.tit9{background:#909}
+.TagLists li.tit10{background:#c30}*/
+.TagLists li a:link,.TagLists li a:visited{color:#FFF}
+/*list*/
+.tip{padding:0 10px;background-color:#f6f6f6;border:1px solid #e0e0e0;height:30px;line-height:30px;margin:5px 0;font-size:12px;text-align:center;position:relative}
+.tip center{display:block;padding-right:81px}
+.tip em{float:right;height:20px;width:76px;line-height:20px;display:inline-block;background:#0b72aa;color:#fff;font-size:14px;margin:5px 5px 0 0;border-radius:5px;position:absolute;right:0px;top:0px}
+.tip em a{display:block;height:20px;width:56px;line-height:20px;padding:0 10px;background:#0b72aa;color:#fff;border-radius:5px}
+.TTdownload{display:block;float:right}
+.TTdownload  a{display:block;float:left;padding:3px 10px;border-radius:5px;background:#0b72aa;color:#fff}
+.bingo-wrapper{margin-top:1px;overflow:hidden}
+.bingo-wrapper,.pics{position:relative}
+.pics img,.pics li{width:100%}
+.pics li{position:absolute;top:0}
+.bingo-wrapper h3{color:#fff;font-size:12px;font-weight:400;text-indent:8px}
+.bingo-wrapper .msg{bottom:6px;height:21px;left:0;line-height:21px;position:absolute;width:100%}
+.bingo-wrapper .tabFn{bottom:4px;left:50%;margin-left:-40px;position:absolute;z-index:30;padding:2px 5px;border-radius:10px}
+.pics li.bingo{display:none}
+.pics li.left{left:-100%}
+.pics li.current{left:0}
+.pics li.right{left:100%}
+.bingo-wrapper span.title{bottom:3px;color:#e0e0e0;left:3px;overflow:hidden;position:absolute;text-overflow:ellipsis;white-space:nowrap;width:12em;z-index:10}
+.bingo-wrapper .tabFn li{background-color:#000;opacity:0.6;border-radius:7px;float:left;height:10px;margin:0 3px;width:10px}
+.bingo-wrapper .tabFn .on{background-color:#134faa;opacity:0.6}
+.ChannelTitle{width:100%;}
+/*列表替换*/
+.listUll,.listUlr{width:48%;padding:0 1%;float:left}
+.listUlr{float:right}
+.listUll li,.listUlr li{float:left;clear:both;width:100%;padding-bottom:10px;align-items:stretch;vertical-align:bottom;display:inline-block;border-radius:5px}
+.listUll li p,.listUlr li p{display:block;height:30px;line-height:30px;font-size:14px;overflow:hidden;width:96%;padding:0 2%}
+.listUll li img,.listUlr li img{width:100%;height:auto;border-radius:5px 5px 0 0}
+.libox{align-items:stretch;background-color:#fff;border-radius:5px;height:auto;width:100%;box-shadow:0px 1px 3px rgba(0, 0, 0, .25);}
+.ListArticle li{width:98%;padding:1%;background:#FFF;float:left;background:#FFF;margin-bottom:10px}
+.ListArticle a{display:block;padding:0 0 0 165px;position:relative;height:120px;overflow:hidden}
+.ListArticle .Pic{width:140px;height:108px;padding:5px;position:absolute;left:0px;top:0px;overflow:hidden;border:1px solid #eee;background:url(../images/app/PicBg.png) repeat;border-radius:10px}
+.ListArticle .Pic i{display:block;width:140px;height:108px;}
+.ListArticle .Pic i .Valign{vertical-align:middle;display:table-cell}
+.ListArticle .Pic i img{vertical-align:middle;border-radius:3px}
+.ListArticle li strong{height:28px;line-height:28px;font-size:16px;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ListArticle li p{display:block;height:72px;line-height:24px;text-indent:2em;overflow:hidden;font-size:12px;color:#999}
+.ListArticle li span{display:block;height:20px;line-height:20px;color:#999;font-size:14px}
+.ListArticle li span .Time,.TimeIco{display:block;float:left;padding-left:20px;background:url(../images/app/Time.png) no-repeat left center;height:20px;color:#999;line-height:20px}
+.ListArticle li span .Good,.GoodIco{display:block;float:right;padding-left:20px;background:url(../images/app/Good.png) no-repeat left center;height:20px;color:#999;line-height:20px}
+/*pages*/
+.Pages{width:100%;text-align:center}
+.Pages li{text-align:center;width:30%;display:inline-block;margin:0 1%;border:1px solid #00a0e9;height:38px;background:-webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(1, #e5f7ff));line-height:38px;border-radius:5px;/*font-style:oblique*/}
+.Pages li a.pre,.Pages li a.next{display:block;height:38px;line-height:38px;font-style:normal}
+.Pages li.AppEndLi{font-style:oblique;font-size:16px}
+.Pages li a:link,.Pages li a:visited{color:#666;font-size:16px;display:block}
+/*article*/
+.ArticleTitle{width:100%;width:96%;padding:0 2%}
+.ArticleTitle h1{ line-height:30px;font-size:14px;text-align:center;padding-right:80px;white-space:nowrap;}
+.ArticleBox p{padding-bottom:15px;line-height:26px;font-size:14px}
+.ArticleBox img{width:100%!important;height:auto!important}
+.TagBox{width:96%;padding:0 2%}
+.TagBox span{float:left;padding:0 10px;height:26px;line-height:26px;overflow:hidden;background:#00a0e9;border-radius:3px;color:#FFF;margin-right:10px;margin-bottom:10px}
+.TagBox a{display:block;float:left;padding:0 10px;margin-right:10px;height:26px;line-height:26px;overflow:hidden;background:#999;color:#fff;border-radius:3px;margin-bottom:10px}
+.NextAndPre{text-align:center}
+.NextAndPre p{float:left;width:47%;border:1px solid #ccc;background:#fafafa;border-radius:5px;height:50px;line-height:25px;padding:5px 0;text-align:center;margin:0 1%;color:#999}
+.NextAndPre p a{display:block;height:25px;line-height:25px;text-align:center;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;font-size:14px}
+/*star*/
+.add{ margin-bottom:10px;line-height:22px}
+.add a{padding:0px 8px ;margin-top:5px;display:inline-block }
+.add .curr:link,.add .curr:visited{color:#FFF}
+.add a:hover,.add .curr{background:#1e8fcf;color:#fff;display:inline-block;border-radius:5px;text-decoration:none;margin-top:5px}
+.add span{display:block;height:30px;float:left;line-height:30px}
+.StarPic{width:28%;margin-right:5%}
+.StarPic img{width:100%}
+.StarInfo{width:67%;position:relative}
+.starInfoList{width:100%}
+.starInfoList li{float:left;padding:2% 0;width:100%}
+.starInfoList li i{display:block;width:80px;overflow:hidden;float:left;color:#999}
+.starInfoList li p{display:block;float:left}
+.starInfoList li p em{display:block;float:left;width:20px;height:15px;overflow:hidden;margin:3px 5px 0 0;background:url(../images/flag.png) no-repeat}
+.starInfoList li p em.flag_cn{} /*中国*/
+.starInfoList li p em.flag_tw{background-position:0 -30px} /*台湾*/
+.starInfoList li p em.flag_hk{background-position:0 -60px} /*香港*/
+.starInfoList li p em.flag_kr{background-position:0 -90px} /*韩国*/
+.starInfoList li p em.flag_jp{background-position:0 -120px} /*香港*/
+.starInfoList li p em.flag_usa{background-position:0 -150px} /*香港*/
+.starInfoList li p em.flag_1{background-position:0 -180px} /*白羊*/
+.starInfoList li p em.flag_2{background-position:0 -210px} /*金牛*/
+.starInfoList li p em.flag_3{background-position:0 -240px} /*双子*/
+.starInfoList li p em.flag_4{background-position:0 -270px} /*巨蟹*/
+.starInfoList li p em.flag_5{background-position:0 -300px} /*狮子*/
+.starInfoList li p em.flag_6{background-position:0 -330px} /*处女*/
+.starInfoList li p em.flag_7{background-position:0 -360px} /*天秤*/
+.starInfoList li p em.flag_8{background-position:0 -390px} /*天蝎*/
+.starInfoList li p em.flag_9{background-position:0 -420px} /*射手*/
+.starInfoList li p em.flag_10{background-position:0 -450px} /*摩羯*/
+.starInfoList li p em.flag_11{background-position:0 -480px} /*水瓶*/
+.starInfoList li p em.flag_12{background-position:0 -510px} /*双鱼*/
+.starInfoList li p em.flag_A{background-position:0 -540px} /*血型:A*/
+.starInfoList li p em.flag_B{background-position:0 -570px} /*血型:B*/
+.starInfoList li p em.flag_O{background-position:0 -600px} /*血型:O*/
+.starInfoList li p em.flag_AB{background-position:0 -630px} /*血型:AB*/
+.starInfoList li a:link,.starInfoList li a:visited{color:#0093dd}
+.YingShiZuoPin{width:100%}
+.YingShiZuoPin li{width:23%;padding:0 1%;float:left}
+.YingShiZuoPin li img,.StarGuanXi li img{width:100%;float:left}
+.YingShiZuoPin li span,.StarGuanXi span{display:block;width:100%;line-height:20px;float:left;font-size:14px}
+.StarGuanXi{width:100%;overflow:hidden}
+.StarGuanXi li{width:23%;padding:0 1%;float:left;text-align:center}
+.StarGuanXi img{width:100%;border-radius:1000px}
+.starInfoTit{width:100%;background:#f0f0f0;margin-bottom:10px}
+.starInfoTit h2{display:inline-block;padding:5px 15px;color:#FFF;background:#3ec5fb;font-weight:normal}
+.starInfoBox{width:100%;overflow:hidden;font-size:14px;color:#333;}
+.starInfoBox p{padding-bottom:10px;text-indent:2em;font-size:15px;color:#666;line-height:30px}
+.starInfoPic{display:block;float:right;width:30%;border-radius:5px;margin:0 0 0 2%}
+.starInfoPic img{width:100%;float:left;border-radius:5px 5px 0 0}
+.starInfoPic span{display:block;width:100%;height:26px;line-height:26px;text-align:center;float:left;border-radius:0 0 5px 5px;background:#f0f0f0}
+.MoreTxt{width:100%;text-align:center;height:26px;line-height:26px;padding:10px 0;background:#FFF}
+.MoreTxt span{width:100px;margin:0 auto;cursor:pointer;padding-right:10px;background:url(../images/app/zk.png) no-repeat 85px center #ccc;border-radius:5px;height:26px;font-size:14px;text-align:center;display:block}
+.MoreTxt span.sq{background:url(../images/app/sq.png) no-repeat 85px center #ccc}
+.starMagazine{width:100%}
+.starMagazine ul{width:49%;overflow:hidden}
+.starMagazine ul li{width:100%;box-shadow:0px 1px 3px rgba(0, 0, 0, .25);background:#FFF;margin-bottom:10px}
+.starMagazine ul .PB{border:1px solid #ccc;border-radius:5px}
+.starMagazine ul.l{float:left}
+.starMagazine ul.r{float:right}
+.starMagazine ul li img{width:100%;border-radius:5px 5px 0 0}
+.starMagazine ul li span{display:block;height:30px;line-height:30px;width:100%;text-align:center;overflow:hidden}
+#ToWeb1{width:100%}
+.arcmain li{float:left;width:48%;padding:0 1% 10px 1%;align-items:stretch;vertical-align:bottom;display:inline-block;border-radius:5px}
+.arcmain li p{display:block;height:30px;line-height:30px;font-size:14px;overflow:hidden;width:96%;padding:0 2%;text-align:center}
+.arcmain li img{width:100%;height:auto;border-radius:5px 5px 0 0}
+.SpecPic{}
+.SpecPic img{float:left;padding-right:10px}
+.SpecPic h1{line-height:30px;font-size:18px;font-weight:normal}
+.SpecPic p{line-height:22px;font-size:14px;color:#999}
+.specTit{font-size:16px;font-weight:normal;padding:0 2%}
+.specBox{padding:10px 10px 0 10px;border:1px solid #ccc;background:#fff;border-radius:5px;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;-webkit-box-shadow:0 0 10px rgba(2,179,255,0.6);-moz-box-shadow:0 0 10px rgba(2,179,255,0.6);box-shadow:0 0 10px rgba(2,179,255,0.6)}
+#search_input_container input {float:left!important}
+#bdcs-search-icon{padding:0!important;width:40px!important;height:50px!important;background-image:url(../images/app_search.png)!important;background-position:center center;background-size:25px 25px}
+.tagD{line-height:26px;font-size:15px;text-indent:2em;color:#666}
+.wstpTj{width:98%;padding:5px 1%;overflow:hidden;height:160px;background:#fff}
+.wstpTj .autoOverflow{width:100%;height:200px;overflow-x:auto}
+.WstpPic{width:2280px;height:160px;overflow:hidden}
+.WstpPic a{float:left;margin-right:10px;display:block;width:180px;height:160px;overflow:hidden;position:relative}
+.WstpPic a span{display:block;height:30px;line-height:30px;width:100%;overflow:hidden;background:rgba(0,0,0,0.5);text-align:center;color:#fff;position:absolute;
+left:0px;bottom:0px;font-size:14px}
+.picScroll{text-align:center;}
+.picScroll .bd ul{ width:100%;float:left;padding-top:10px;}
+.picScroll .bd li{ width:33%;float:left;font-size:14px;text-align:center;}
+.picScroll .bd li a{-webkit-tap-highlight-color:rgba(0, 0, 0, 0);/* 取消链接高亮 */ }
+.picScroll .bd li img{ width:94%;background:url(../images/loading.gif) #fff center center no-repeat;}
+.picScroll .bd li span{display:block;height:30px;line-height:30px;text-align:center;font-size:15px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.picScroll .hd{ height:40px;line-height:40px;border-bottom:2px solid #f6a;background:#f6f6f6;display:none;overflow:hidden;text-align:left;padding:0 10px;}
+.picScroll .hd ul{ float:right;padding-top:16px; }
+.picScroll .hd li{ float:left;width:8px;height:8px;background:#D0D0D0;margin:0 5px;overflow:hidden;
+-webkit-border-radius:8px;-moz-border-radius:8px;border-radius:8px;}
+.picScroll .hd .on{ background:#f6a;}
+.picScroll .prev,.picScroll .next{ display:block;float:right;width:18px;height:18px;background:url(images/pisScrollIcons.gif) -6px -7px no-repeat;overflow:hidden;margin:11px 5px 0 5px;}
+.picScroll .next{ background-position:-34px -7px;}
+.picScroll .prevStop{ background-position:-6px -40px;}
+.picScroll .nextStop{ background-position:-34px -40px;}
+.picScroll h2,.picScroll h3,.picScroll h1{font-weight:normal;font-size:18px}
+/**/
+.TopNewRadius{width:98%;margin:0 1%;position:relative}
+.TcTop{display:block;height:20px;text-align:center;font-size:16px;margin-bottom:10px}
+.TopNewRadius dd{display:block;border-radius:100%;float:left}
+.TopNewRadius dd a{display:block;float:left}
+.TopNewRadius dd img,.TopNewRadius_rtys dd img{width:100%;height:auto;border-radius:100%;border:2px solid #fff}
+.TopNewRadius dd.Radius1{width:30%;position:relative;left:0px;top:0px;}
+.TopNewRadius dd.Radius2{width:40%;position:relative;left:0%;top:0%}
+.TopNewRadius dd.Radius3{width:30%;position:relative;left:0%;top:0}
+.TopNewRadius dd.Radius1 a.dd_P_1{width:70%}
+.TopNewRadius dd.Radius1 a.dd_P_2{width:40%;position:absolute;right:-8%;top:15%;z-index:3}
+.TopNewRadius dd.Radius1 a.dd_P_3{width:90%;position:absolute;right:-10%;top:65%;z-index:6}
+.TopNewRadius dd.Radius2 a.dd_c_1{width:100%;position:relative;z-index:5}
+.TopNewRadius dd.Radius3 a.dd_n_1{width:85%}
+.TopNewRadius dd.Radius3 a.dd_n_2{width:50%;position:absolute;right:0px;top:30%;z-index:1}
+.TopNewRadius dd.Radius3 a.dd_n_3{width:50%;position:absolute;right:0%;top:80%;z-index:1}
+.TopNewRadius dd.Radius3 a.dd_n_4{width:70%;position:absolute;left:-15%;top:70%;z-index:2}
+.TopNewRadius_rtys dd{display:block;border-radius:100%;width:32%;margin-bottom:2%}
+.TopNewRadius_rtys .mr2{margin-right:2%}
+.TopNewRadius_rtys dd a{display:block;width:94%;padding:3% 3% 0 3%;background:#fff;text-align:center}
+
+.MoreKeyWords{padding:0 0 0 3%}
+.MoreKeyWords dt{font-size:14px;color:#1f92d1;float:left;margin-right:10px;line-height:24px}
+.MoreKeyWords dd{float:left;padding:0 3% 0 0;font-size:14px;height:24px;line-height:24px}
+.MoreKeyWords dd a{white-space:nowrap}
+.MoreKeyWords dd.tag1{font-size:18px;font-weight:bold}
+.MoreKeyWords dd.tag2{font-size:12px;}
+.MoreKeyWords dd.tag1 a:link,.MoreKeyWords dd.tag1 a:visited{color:#666}
+.MoreKeyWords dd.tag2 a:link,.MoreKeyWords dd.tag2 a:visited,.articleV2Info a:link,.articleV2Info a:visited{color:#999}
+.Art_desc {padding:2%; background:#fff; line-height:25px;}
+.Art_desc p {text-indent:2em;}
+.Art-desc-tit {border-left:2px solid #1f92d1;padding-left:10px;font-weight:normal;font-size:18px;}
+.index-desc {width:96%;margin:0 1%;padding:0 1%;margin:0 auto;border: 1px solid #f7c942;-webkit-border-radius: 6px;-moz-border-radius: 6px;border-radius: 6px;-webkit-box-shadow: 0 0 10px rgba(2,179,255,0.6);-moz-box-shadow: 0 0 10px rgba(2,179,255,0.6);box-shadow: 0 0 10px rgba(2,179,255,0.6);background: #fff;}

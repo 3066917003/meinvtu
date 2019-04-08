@@ -1,0 +1,14 @@
+ID:1
+网址:http://www.27270.com/zt/hunsha/
+Header:HTTP/1.1 200 OK
+Date:Mon, 12 Sep 2016 12:44:34 GMT
+Content-Type:text/html; charset=utf-8
+Server:Microsoft-IIS/6.0
+X-Powered-By:ASP.NET,PHP/5.4.28
+Content-Encoding:gzip
+Vary:Accept-Encoding
+Transfer-Encoding:chunked
+Content-Length:0
+
+源代码:
+========分隔线=======

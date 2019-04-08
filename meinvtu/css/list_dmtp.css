@@ -1,0 +1,44 @@
+.w1200 { width: 1200px; min-width: 1200px; margin: 0 auto; overflow: hidden; clear: both; }
+.warp, .SeaNav ul { width: 1200px; min-width: 1200px }
+.SeaSearch { float: right; }
+.border_shadow { border: 1px solid #ccc; box-shadow: 1px 1px 1px 1px #ddd; }
+.blue { color: #1f92d1!important }
+.clear { clear: both; }
+.pic_list_box h1, .pic_list_box h2 { font-size: 24px; font-weight: normal; }
+.pic_list { width: 110%; overflow: hidden }
+.pic_list li { float: left; width: 194px; height: 200px; margin: 0 15px 15px 0; border: 1px solid #cecece; background: #fff; padding: 16px 16px 5px 16px; }
+.Article_Info { display: block; height: 25px; line-height: 25px; border-top: 1px dashed #ccc; width: 100%; overflow: hidden; color: #999; font-size: 12px; }
+.pic_list_box u { display: block; float: left; border-radius: 3px; height: 18px; line-height: 18px; text-decoration: none; margin-top: 4px; }
+.pic_list_box u a { color: #999; padding: 0 5px; background: #f3f2f3; display: block; float: left; border-radius: 3px; height: 18px; line-height: 18px; }
+.pic_list_box em { display: block; padding-left: 20px; height: 25px; line-height: 25px; background: url(../images/new_icons.png) no-repeat 0 -86px; float: right; padding-right: 5px; }
+.pic_list span { display: block; height: 30px; line-height: 30px; width: 100%; text-align: center; font-size: 14px; }
+.showhot li div, .pic_list span { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+h2 { font-size: 18px; font-weight: normal; }
+.left { float: left; vertical-align: middle; }
+.right { float: right; vertical-align: middle; }
+.showhot .tit a { cursor: pointer }
+.showhot li { display: block; width: 185px; height: 137px; overflow: hidden; position: absolute; top: 0; left: 0 }
+.showhot { position: absolute; left: 445px; top: 0; height: 280px; }
+.showhot li div { background: url(../images/list_yxtp_bg.png); position: absolute; width: 100%; height: 25px; line-height: 25px; vertical-align: middle; text-align: center; color: #fff; left: 0; display: none; bottom: 0 }
+.showhot li img { width: 185px; height: 137px; }
+.showhot #pic2 { position: absolute; left: 0; top: 142px; }
+.showhot #pic3 { position: absolute; left: 190px; top: 0; width: 185px; height: 279px; }
+.showhot #pic3 img { width: 185px; height: 279px; }
+.showhot #pic4 { left: 380px; top: 0; }
+.showhot #pic5 { top: 142px; left: 380px; }
+.showhot #pic6 { top: 0; left: 570px; }
+.showhot #pic7 { top: 142px; left: 570px; }
+.pageheader { position: relative; height: 280px; overflow: hidden; }
+.FlashPic { width: 2200px; height: 280px; }
+.banner { width: 440px; height: 279px; background: #999; position: absolute; left: 0; top: 0; }
+.FlashPic li, .FlashPic a { float: left; position: relative; width: 440px; height: 279px; overflow: hidden; display: block; }
+.FlashPic a img { width: 440px; height: 279px; }
+.FlashPic em { display: block; background: #000; height: 40px; width: 440px; filter: alpha(opacity=50); -moz-opacity: 0.5; -khtml-opacity: 0.5; opacity: 0.5; position: absolute; bottom: 0; left: 0; }
+.FlashPic span { font-size: 14px; color: #fff; padding-left: 14px; height: 40px; line-height: 40px; position: absolute; bottom: 0; left: 0; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.FlashPoint { width: 130px; height: 20px; position: absolute; bottom: 10px; right: 0; }
+.FlashPoint li { float: left; font-size: 14px; color: #fff; width: 20px; height: 20px; line-height: 20px; text-align: center; border-radius: 3px; background: #bfbfbf; cursor: pointer; margin-right: 5px; text-decoration: none; }
+.FlashPoint .on { background: #1f92d1 }
+.NewPages li { _zoom: 1; *display:inline;}
+.tagBox { width: 1178px; background: #fff; padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px; overflow: hidden; }
+.tagBox h2 { height: 35px; line-height: 35px; color: #000; font-size: 16px; font-weight: normal; }
+.tagBox a { float: left; margin-right: 25px; white-space: nowrap; line-height:30px;}

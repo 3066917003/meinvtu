@@ -1,0 +1,18 @@
+2016-09-11 03:37:17,466 [1] ERROR System.Object [(null)] - UI Exception:
+System.Runtime.InteropServices.COMException (0x80004005): ¶Ô COM ×é¼þµÄµ÷ÓÃ·µ»ØÁË´íÎó HRESULT E_FAIL¡£
+   ÔÚ System.Windows.Forms.UnsafeNativeMethods.ITextRange.ScrollIntoView(Int32 value)
+   ÔÚ System.Windows.Forms.TextBoxBase.ScrollToCaret()
+   ÔÚ Client.Dock_FrmList.
+.eTgdj7YVZLc5GUy4SSN(Object )
+   ÔÚ Client.Dock_FrmList.
+.<appendResultInfo>b__14(Object 
+@	, EventArgs 
+A	)
+   ÔÚ System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   ÔÚ System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   ÔÚ System.Threading.ExecutionContext.runTryCode(Object userData)
+   ÔÚ System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   ÔÚ System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   ÔÚ System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   ÔÚ System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   ÔÚ System.Windows.Forms.Control.InvokeMarshaledCallbacks()

@@ -1,0 +1,54 @@
+.w1200 { width: 1200px; margin: 0 auto; }
+.MinHeader, .SeaNav { min-width: 1200px; margin: 0 auto; }
+.warp, .SeaNav ul { width: 1200px; margin: 0 auto; }
+.Ad_w960 { width: 960px; margin: 0 auto; }
+.SeaSearch { float: right; }
+.TagPicList { width: 100%; }
+.TagPicList ul { width: 105%; float: left; }
+.TagPicList li { float: left; width: 130px; padding: 5px; background: #FFF; box-shadow: 3px 3px 3px #ccc; height: 160px; margin-right: 11px; border-radius: 5px; }
+.TagPicList li span.TagPicList li h2 { display: block; width: 100%; overflow: hidden; font-size: 16px; height: 20px; line-height: 20px; color: #999; text-align: center; font-size: 14px; }
+.TagPicList li h2 { font-weight: normal; text-align: center; }
+.TagPicList li img { -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; -webkit-border-radius: 100%; -moz-border-radius: 100%; border-radius: 100%; -webkit-transition: .3s; -moz-transition: .3s; transition: .3s; -webkit-transform: rotateY(180deg); -moz-transform: rotateY(180deg); transform: rotateY(180deg); }
+.TagPicList li:hover img { -webkit-transform: rotateY(360deg); -moz-transform: rotateY(360deg); transform: rotateY(360deg); opacity: 0.5; filter: Alpha(opacity=50); }
+.TagPicList li span.H30, .TagPicList li h2.H30 { height: 30px; line-height: 30px; font-size: 16px; }
+.TagPicList li span.H30 a:link, .TagPicList li span.H30 a:visited, .TagPicList li h2.H30 a:link, .TagPicList li h2.H30 a:visited { color: #333; }
+.BoxL { width: 555px; background: #FFF; border-radius: 5px; box-shadow: 3px 3px 3px #ccc; }
+.NewTitle1 { width: 100%; height: 30px; overflow: hidden; border-bottom: 1px dashed #ccc; line-height: 30px; font-size: 14px; }
+.NewTitle1 strong, .NewTitle1 h1, .NewTitle1 strong, .NewTitle1 h2 { display: block; height: 30px; padding-left: 35px; font-size: 18px; font-weight: normal; float: left; }
+.NewTitle1 em { float: right; }
+.NewTitle1 strong.IcoTag, .NewTitle1 h1.IcoTag, .NewTitle1 h2.IcoTag { background: url(../images/new_icons.png) no-repeat 10px 5px; }
+.NewTitle1 strong.IcoSpec, .NewTitle1 h2.IcoSpec { background: url(../images/new_icons.png) no-repeat 10px -25px; }
+.NewTitle1 span { display: block; height: 20px; line-height: 20px; float: left; padding-left: 25px; background: url(../images/new_icons.png) no-repeat 0 -118px; margin-top: 5px; cursor: pointer; float: right; }
+.NewTitle1 span:hover { opacity: 0.5; filter: Alpha(Opacity=50); }
+.NewTagListBox { width: 535px; height: 120px; padding: 5px 10px; overflow: hidden; }
+.NewTagListBox a { display: block; height: 20px; line-height: 20px; float: left; margin: 2px 4px 2px 0; padding: 0 10px; font-size: 14px; white-space: nowrap; border-radius: 3px; color: #333 }
+.NewTagListBox .tag1:hover { background: #638c0b; }
+.NewTagListBox .tag2:hover { background: #ec6941; }
+.NewTagListBox .tag3:hover, .NewTagListBox a.tag3 { background: #00479d; }
+.NewTagListBox .tag4:hover { background: #6a3906; }
+.NewTagListBox .tag5:hover { background: #59493f; }
+.NewTagListBox .tag6:hover { background: #000000; }
+.NewTagListBox .tag7:hover, .NewTagListBox a.tag7 { background: #c00; }
+.NewTagListBox .tag8:hover { background: #000000; }
+.NewTagListBox .tag9:hover, .NewTagListBox .tag0:hover { background: #000000; }
+.NewTagListBox a.tag3:link, .NewTagListBox a.tag3:visited, .NewTagListBox a.tag7:link, .NewTagListBox a.tag7:visited { color: #fff!important; }
+.NewTagListBox a:hover { color: #FFF!important; text-decoration: none; }
+.BoxR { width: 605px; padding: 0 10px; background: #FFF; border-radius: 5px; box-shadow: 3px 3px 3px #ccc; height: 161px; overflow: hidden; }
+.NewSpec { width: 100%; height: 120px; overflow: hidden; }
+.NewSpec ul { width: 110%; height: 140px; }
+.NewSpec li { float: left; width: 145px; height: 110px; position: relative; overflow: hidden; margin-right: 8px }
+.NewSpec li span { display: block; height: 30px; width: 100%; line-height: 30px; position: absolute; left: 0; bottom: 0px; text-align: center; background: rgba(0,0,0,0.5); font-size: 14px; _background: #333; _opacity: 0.5; _filter: Alpha(opacity=50); *background:#333;
+*opacity: 0.5;
+*filter: Alpha(opacity=50);
+}
+.NewSpec li span a { color: #FFF; }
+.NewSpec li:hover { opacity: 0.8; filter: Alpha(Opacity=80); }
+.listMeinuT { width: 100%; }
+.listMeinuT ul { width: 110%; }
+.listMeinuT li { width: 183px; height: 300px; float: left; overflow: hidden; margin: 0 20px 20px 0; background: #fff; box-shadow: 3px 3px 3px #ccc; border-radius: 10px; position: relative; }
+.listMeinuT li i { display: none; width: 183px; height: 270px; overflow: hidden; background: url(../images/PicHoverBg.png) no-repeat center center #000; opacity: 0.4; filter: Alpha(Opacity=40); position: absolute; left: 0px; top: 0px; }
+.listMeinuT li:hover i { display: block; }
+.listMeinuT li a.tit { display: block; height: 30px; line-height: 30px; font-size: 14px; overflow: hidden; width: 90%; padding: 0 5%; }
+.listMeinuT li:hover { background: #1f92d1 }
+.listMeinuT li:hover a.tit { color: #fff }
+.title { font-weight: normal; font-size: 24px; color: #1f92d1 }

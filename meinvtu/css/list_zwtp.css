@@ -1,0 +1,67 @@
+@charset "gb2312";
+.Zw_Rank_list li, .Zw_PicList span { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.Ico_Zw { background: url(../images/list_zwtp.png) no-repeat; }
+.Ico_Zw_1 { background-position: 5px 8px; }
+.mar { margin: 0 auto; }
+.w1200 { width: 1200px; min-width: 1200px; margin: 0 auto; clear: both }
+.SeaNav ul { width: 1200px; min-width: 1200px; }
+.HeaderBox .warp { width: 1200px; min-width: 1200px; }
+.SeaHeader .SeaSearch { float: right; }
+.StarHead { margin-right: 100px; }
+.ad_w400 { width: 400px; overflow: hidden; margin: 0 auto }
+.ad_w1200 { width: 1200px; min-width: 1200px; overflow: hidden; margin: 0 auto }
+.bt1 { border-bottom: 1px dashed #ccc; margin-bottom: 10px; padding-bottom: 10px; }
+/*ª√µ∆*/
+.flash_Zw { width: 610px; height: 360px; float: left; margin-right: 10px; }
+.Zw_PicBox { top: 0; left: 0; width: 3350px; height: 360px; }
+.Zw_PicBox li { float: left; position: relative; width: 610px; height: 360px; overflow: hidden }
+.Zw_PicBox em { position: absolute; left: 0; bottom: 0; display: block; width: 100%; height: 45px; background: #000; filter: alpha(opacity=70); -moz-opacity: 0.7; -khtml-opacity: 0.7; opacity: 0.7; }
+.Zw_PicBox span { position: absolute; left: 0; bottom: 0; display: block; width: 600px; height: 45px; line-height: 45px; padding-left: 10px; font-size: 18px; overflow: hidden; color: #fff; z-index: 1; }
+.Zw_PicBox p { font-size: 12px; line-height: 22px; overflow: hidden; color: #ccc; text-indent: 2em; display: block; }
+.flash_point { right: 0px; bottom: 0px; width: 60px; height: 25px; position: absolute; z-index: 11 }
+.flash_point a, .flash_point em { float: left; width: 20px; height: 20px; margin-right: 10px; border-radius: 3px; background-color: #84d313; background-image: url(../images/imagesV2.png); background-repeat: no-repeat; background-position: -134px 1px; cursor: pointer; filter: alpha(opacity=30); -moz-opacity: 0.3; -khtml-opacity: 0.3; opacity: 0.3; }
+.flash_point a.right_point, .flash_point em.right_point { background-position: -164px 1px; }
+.flash_point a:hover, .flash_point em:hover { background-color: #84d313; filter: alpha(opacity=80); -moz-opacity: 0.8; -khtml-opacity: 0.8; opacity: 0.8; }
+/*ª√µ∆≤‡*/
+.Zw_Header_Top { width: 160px; height: 360px }
+.Zw_Header_Top li { position: relative; width: 160px; height: 115px; overflow: hidden; margin-bottom: 7px; }
+.Zw_Header_Top span { position: absolute; top: 0; left: 0; display: block; width: 160px; height: 115px; line-height: 115px; text-align: center; color: #fff; font-size: 20px; background: url(../images/index_flash_Bj.png) no-repeat left top; _background: none; _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="../images/index_flash_Bj.png", sizingMethod="crop")
+}
+/*≈≈––*/
+.Zw_Hot_Rank { width: 402px; height: 360px; }
+.Zw_Rank_Tit { padding-left: 28px; font-size: 24px; font-weight: normal; color: #2092d1; padding-bottom: 5px; }
+.Zw_Rank_list { width: 400px; border-top: 1px solid #333; }
+.Zw_Rank_list li { position: relative; width: 307px; height: 30px; line-height: 30px; padding: 0 55px 0 38px; }
+.Zw_Rank_list li.bold { border-bottom: 1px solid #ddd; height: 45px; padding: 6px 55px 5px 38px; }
+.Zw_Rank_list b { position: absolute; left: 0; top: 0; display: block; width: 30px; height: 30px; text-align: center; overflow: hidden; }
+.Zw_Rank_list b.Zw_bold { height: 56px; line-height: 56px; font-size: 24px; color: #1f92d1; font-weight: bold }
+.Zw_Rank_list b, .Zw_Rank_list a{ font-size: 14px; color: #666; }
+.Rank_Tit { line-height: 30px; }
+.Zw_Rank_list img { margin-right: 8px }
+.Zw_Rank_list span { font-size: 16px; color: #666; }
+.Zw_Rank_list em { position: absolute; right: 0; top: 0; display: block; width:30px; height: 33px; line-height: 33px; font-size:12px; text-align: left; color:#999; background-image:url(../images/list_zwtp.png); background-repeat:no-repeat; background-position:2px -114px;padding-left: 23px;}
+.Zw_Rank_list li.bold em { height: 56px; line-height: 56px; font-size: 14px; background-position:2px -101px;}
+/*Tag*/
+.Zw_Tag {padding: 10px; box-shadow: 0px 0px 3px #e4e3e4; background: #fff; }
+.Tag_list, .Tag_tit, .Zw_Tag a { float: left; }
+.Tag_list { width: 100%; height:29px; overflow:hidden}
+.Tag_Box {width:1000px;}
+.Tag_list span {position:absolute; right:0; top:0; display:block; width:40px; height:18px; line-height:18px; cursor:pointer; margin-top:9px; text-align:left;background-image: url(../images/list_mnmt.png); background-repeat:no-repeat;}
+.Zw_Down {background-position:right 6px;}
+.Zw_Up {background-position:right -8px;}
+.Tag_tit { font-size: 14px; color: #fff; height: 29px; line-height: 29px; padding: 0 28px 0 17px; margin-right: 10px; background: url(../images/list_zwtp.png) #1f92d1 no-repeat 71px -50px; }
+.Zw_Tag a { height: 29px; line-height: 29px; padding: 0 10px; margin: 0px 10px 10px 0; white-space: nowrap; color: #666; font-size: 14px; }
+.Zw_Tag a.color1 { color: #fff; background: #1f92d1; }
+.Zw_Tag a.color2 { color: #fff; background: #76b515; }
+.Zw_Tag a.color3 { color: #fff; background: #eb6877; }
+/*¡–±Ì*/
+.w110 { width: 110%; border-top: 1px solid #333; }
+.Zw_PicList li { float: left; width: 194px; height: 200px; margin: 15px 15px 0 0; border: 1px solid #cecece; background: #fff; padding: 16px 16px 5px 16px; }
+.Zw_PicList span { display: block; height: 30px; line-height: 30px; width: 100%; text-align: center; font-size: 14px; }
+.Article_Info { display: block; height: 25px; line-height: 25px; border-top: 1px dashed #ccc; width: 100%; overflow: hidden; color: #999; font-size: 12px; }
+.Zw_PicList u { display: block; float: left; border-radius: 3px; height: 18px; line-height: 18px; text-decoration: none; margin-top: 4px; }
+.Zw_PicList u a { color: #999; padding: 0 5px; background: #f3f2f3; display: block; float: left; border-radius: 3px; height: 18px; line-height: 18px; }
+.Zw_PicList u a:hover { background: #7fcf13; color: #fff; }
+.Zw_PicList em { display: block; padding-left: 20px; height: 25px; line-height: 25px; background: url(../images/new_icons.png) no-repeat 0 -86px; float: right; padding-right: 5px; }
+/*∑÷“≥*/
+.NewPages li { display: inline-block; _zoom: 1; *display:inline;}

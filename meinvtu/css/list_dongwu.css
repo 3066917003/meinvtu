@@ -1,0 +1,74 @@
+@charset "gb2312";
+/* CSS Document */
+.MinHeader { min-width:1200px;}
+.warp,.SeaNav ul,.w1200 { width:1200px; margin:0 auto;}
+.w860 {width:860px;}
+.mar13 {margin-right:13px;}
+.Ad_w960 { width:960px; margin:0 auto;}
+.SeaSearch {float:right}
+.Flash {width:640px; height:365px; overflow:hidden; background:#fff; border-radius:10px; box-shadow:3px 3px 3px #c8c8c8;}
+.FlashBody {width:620px; height:345px; margin:10px; overflow:hidden;}
+.FlashBox {width:620px; height:345px; position:relative; overflow:hidden;}
+.FlashPic {width:620px; height:345px; overflow:hidden;}
+.FlashList {display:none; width:620px; height:345px; position:absolute; bottom:0; left:0; overflow:hidden;}
+.FlashBj {height:40px; width:620px; background:#000; filter:alpha(opacity=50);-moz-opacity:0.5;-khtml-opacity: 0.5;opacity: 0.5; position:absolute; bottom:0; left:0;}
+.FlashTit {font-size:16px; color:#fff; padding-left:14px; height:40px; line-height:40px; position:absolute; bottom:0; left:0;}
+.FlashPoint {width:150px; height:20px; position:absolute; bottom:10px; right:0;}
+.FlashPoint a {display:block; float:left; font-size:14px; color:#fff; width:20px; height:20px; line-height:20px; text-align:center;border-radius:3px; background:#bfbfbf; cursor:pointer; margin-right:10px; text-decoration:none;}
+.FlashPoint a.on {background:#3e7795;}
+.Tags {width:300px; height:558px; box-shadow:3px 3px 3px #c8c8c8; border-radius:10px; background:#fff; padding:3px 10px 5px 10px; overflow:hidden;}
+.TagsList {width:300px; overflow:hidden; margin-top:5px;}
+.TagsTit {background:url(../images/Ico.png) no-repeat; background-position:0 5px; height:32px; border-bottom:1px dashed #ccc}
+.Cat {background-position:0 -35px;}
+.Animal {background-position:0 -75px;}
+h3 {line-height:32px; color:#1f92d1; font-size:16px; padding:0 0 5px 30px; font-weight:normal;}
+.Tag_list {width:200px; height:370px; padding:5px 5px 5px 0; overflow:hidden;}
+.Tag_list li {position:relative; width:190px; height:100px; padding:5px; margin-bottom:13px; background:#fff; border-radius:6px; box-shadow:4px 4px 5px #abaaab;}
+.Tag_list em,.Tag_list span {position:absolute; left:5px; top:5px; display:block; width:190px; height:100px;}
+.Tag_list em { background:#000; filter:alpha(opacity=50);-moz-opacity:0.5;-khtml-opacity: 0.5;opacity: 0.5;}
+.Tag_list span {line-height:100px; text-align:center; color:#fff; font-size:28px;}
+.Tag_list li.curr em,.Tag_list li.curr span {display:none;}
+.TagsList a {float:left; color:#333; font-size:14px; padding:2px 5px; white-space:nowrap; border-radius:6px; margin:2px 2px 0 0; }
+.TagsList a.Tag0:hover {background:#638c0b;}
+.TagsList a.Tag2:hover {background:#1f92d1;}
+.TagsList a.Tag4:hover {background:#6a3906;}
+.TagsList a.Tag5:hover {background:#59493f;}
+.TagsList a.Tag6:hover {background:#ec6941;}
+.TagsList a.Tag8:hover {background:#27d3d9;}
+.TagsList a.Tag1:hover {background:#cc0000;}
+.TagsList a.Tag7:hover,.TagsList a.Tag7:link,.TagsList a.Tag7:visited {background:#1f92d1;color:#fff;}
+.TagsList a.Tag3:hover,.TagsList a.Tag3:link,.TagsList a.Tag3:visited {background:#7fcf13;color:#fff;}
+.TagsList a:hover {color:#fff; text-decoration:none;background:#666;}
+.Scroll {width:860px; overflow:hidden; border-radius:10px;}
+.AnimalHot {width:1200px; height:370px;}
+.AnimalTit {width:1200px; height:30px; overflow:hidden;}
+.AnimalList {width:290px; height:330px; background:#fff; box-shadow:3px 3px 3px #c8c8c8; border-radius:10px;}
+.AnimalBox {width:268px; height:205px; overflow:hidden; margin:10px 10px 0 10px;}
+.AnimalBox a {float:left; position:relative;}
+.AnimalBox span {display:block; width:281px; height:30px; line-height:30px; font-size:16px; color:#333; padding-left:9px;}
+.AnimalBox i {display:block; background:url(../images/Ico.png) no-repeat; background-position:0 -200px; width:64px; height:64px; position:absolute; top:0; left:0;}
+.AnimalBox i.Second {background-position:0px -270px;}
+.AnimalBox i.Third {background-position:0px -340px;}
+.AnimalBox i.Fourd {background-position:0px -620px;}
+.AnimalList ul {float:left; padding-left:10px;}
+.AnimalList li {float:left; height:26px; width:258px; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; padding-left:10px; background-image:url(../images/Ico.png); background-repeat: no-repeat; background-position: -65px -398px;}
+.AnimalList li.Yello {background-position:-65px -438px;}
+.AnimalList li.Green {background-position:-65px -478px;}
+.AnimalList li.Red {background-position:-65px -678px;}
+.AnimalList li a,.AnimalList li a:link,.AnimalList li a:visited {font-size:14px; color:#666;height:26px; line-height:26px; overflow:hidden;}
+.Scroll .hd {width:100%; height:30px; line-height:30px;}
+.Scroll .hd .next {float:right; display:inline-block; background:url(../images/Ico.png) no-repeat; cursor:pointer;width:21px; height:30px; background-position:-50px -155px;}
+.Scroll .hd .prev {float:right; display:inline-block; background:url(../images/Ico.png) no-repeat; margin-left:1px; cursor:pointer;width:21px; height:30px; background-position:-50px -115px;}
+.Scroll .hd .next:hover {background-position:0 -115px;}
+.Scroll .hd .prev:hover {background-position:0 -155px;}
+.Scroll .bd {width:100%; height:155px; overflow:hidden;}
+.Scroll .bd .tempWrap {width:110%}
+.Scroll .bd .picList {height:155px;}
+.Scroll .bd li {float:left; width:190px; height:140px; overflow:hidden; padding:5px; border-radius:5px; margin-right:20px; background:#fff;position:relative; box-shadow:3px 3px 3px #c8c8c8;}
+.Scroll .bd li .pic,.Scroll .bd li .pic a {width:190px; height:140px; overflow:hidden; position:relative; display:block;}
+.Scroll .bd li .pic a em {display:none; background:url(../images/Ico.png) no-repeat; background-color:#000; width:190px; height:140px; background-position:60px -500px; position:absolute; bottom:0px; left:0px; filter:alpha(opacity=30);-moz-opacity:0.3;-khtml-opacity: 0.3;opacity: 0.3;}
+.Scroll .bd li .title {display:none;height:20px; font-size:14px; line-height:20px; color:#fff; position:absolute; left:5px; width:190px; bottom:5px; text-align:center; overflow:hidden;}
+.Scroll .bd li .title a:link,.Scroll .bd li .title a:visited {color:#fff;}
+.Scroll .bd li.currthis .pic a em{display:block;}
+.Scroll .bd li.currthis .title {display:block;}
+h2 {float:left; line-height:30px; color:#3999d3; font-weight:normal;}

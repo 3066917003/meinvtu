@@ -1,0 +1,39 @@
+@charset "gb2312";
+.color_0 { background: #f3f2f3; }
+.w1200, .Bodyer { width: 1200px; margin: 0 auto; clear: both; }
+.w1190 { width:1190px; padding-left:10px;}
+.warp { width:1200px;}
+.HeaderBox { background: #fff; }
+.SeaNav ul { width: 1200px; }
+.SeaSearch {float:right;}
+.slide { width: 290px; padding-left: 10px; box-shadow: 5px 5px 5px #a4a3a4; background: #fff; }
+.a_title { font-size: 30px; font-weight: normal; color: #1f92d1 }
+.a_select, .add, a_selectbox,.a_rank span { width: 100%; }
+.a_select { height: 146px; }
+.a_search { width:200px; padding-right:20px}
+.brn {outline:none; border:none;}
+.search_t {width:150px; height:20px; line-height:20px; border:1px solid #ccc;}
+.search_p {display:block; width:36px; height:22px; line-height:22px; text-align:center; color:#fff; background:#1f92d1; cursor:pointer;}
+.add { line-height: 22px; }
+.add a { padding: 0 5px; margin-bottom: 5px; }
+.letter a {display: inline-block; padding:0 7px;}
+.add a:hover, .add .curr { background: #1e8fcf; color: #fff;  border-radius: 5px; text-decoration: none; }
+.add .all { padding:0 5px;}
+.a_select span {position:absolute; right:5px; bottom:1px; display:block; width:52px; height:22px; line-height:22px; background-image:url(../images/index_star.png); background-repeat:no-repeat; background-color:#fff; cursor:pointer; text-indent:6px; z-index:99}
+.down {background-position:35px 6px;}
+.up {background-position:35px -20px;}
+.bf { background:#fff; box-shadow:5px 5px 5px #a4a3a4;}
+.w110 { width: 110%; }
+.SmallPic { padding-left: 5px; }
+.SmallPic li { float: left; width: 80px; height: 100px; margin: 0 15px 15px 0; overflow: hidden; }
+.SmallPic span { display: block; height: 19px; width: 78px; border: 1px solid #ccc; border-top: none; background: #eee; line-height: 19px; text-align: center; overflow: hidden; }
+#point2 {width:32px; height:42px; padding:29px 24px; background:#1e8fcf; color:#fff; font-size:16px; cursor:pointer;}
+.content { width: 865px; padding-left: 10px; background: #fff; box-shadow: 5px 5px 5px #a4a3a4; }
+.b_title { font-size: 18px; font-weight: normal; }
+.BigPic li { float: left; width: 224px; background: url(../images/bjV2.png) no-repeat left bottom; margin: 0 15px 15px 0; }
+.Star_box {width:190px; height:280px; overflow:hidden;}
+.Pic_box {display: table-cell; width: 190px; height: 280px; vertical-align: middle;}
+.BigPic a { display: block; width: 200px; padding: 12px; border-top: 1px solid #ccc; }
+.BigPic span,.a_rank span { display: block; height: 30px; line-height: 30px; overflow: hidden; text-align: center; }
+.NewPages li { _zoom: 1; *display:inline;}
+.a_rank li {float:left; position:relative; width:190px; height:315px; padding:5px 5px 0px 5px; margin:0 15px 15px 0; border:1px solid #ccc; border-radius:6px; background:#fff; overflow:hidden;}

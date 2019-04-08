@@ -1,0 +1,53 @@
+.w1200 { width: 1200px; min-width: 1200px; margin: 0 auto; }
+.SeaNav ul, .warp { width: 1200px; min-width: 1200px }
+.border_shadow { border: 1px solid #ccc; box-shadow: 1px 1px 1px 1px #ddd; }
+.SeaSearch { float: right }
+.blue { color: #1f92d1!important }
+.clear { clear: both; }
+.pic_list_box h1, .pic_list_box h2 { font-size: 24px; font-weight: normal; }
+.pic_list { width: 110%; }
+.pic_list li { float: left; width: 194px; height: 320px; margin: 0 15px 15px 0; border: 1px solid #cecece; background: #fff; padding: 16px 16px 5px 16px; overflow: hidden; }
+.Article_Info { display: block; height: 25px; line-height: 25px; border-top: 1px dashed #ccc; width: 100%; overflow: hidden; color: #999; font-size: 12px; }
+.pic_list_box u { display: block; float: left; border-radius: 3px; height: 18px; line-height: 18px; text-decoration: none; margin-top: 4px; }
+.pic_list_box u a { color: #999; padding: 0 5px; background: #f3f2f3; display: block; float: left; border-radius: 3px; height: 18px; line-height: 18px; }
+.pic_list_box u a:hover { background: #7fcf13; color: #fff; }
+.pic_list_box em { display: block; padding-left: 20px; height: 25px; line-height: 25px; background: url(../images/new_icons.png) no-repeat 0 -86px; float: right; padding-right: 5px; }
+.pic_list span { display: block; height: 30px; line-height: 30px; width: 100%; text-align: center; font-size: 14px; }
+h2 { font-size: 18px; font-weight: normal; }
+.left { float: left; vertical-align: middle; }
+.right { float: right; vertical-align: middle; }
+.showhot .tit a { cursor: pointer }
+.hr10, .hr20 { height: 10px; overflow: hidden; clear: both; }
+.hr20 { height: 20px; }
+.banner { width: 800px; }
+.banner, .banner .banner2 { overflow: hidden; position: relative; }
+.banner .banner2 { width: 110%; }
+.banner .banner2 li, .banner .banner2 li a { width: 190px; height: 140px; display: block; overflow: hidden; float: left; margin-right: 13px; position: relative; }
+.banner .banner2 li img { width: 100%; }
+.banner .banner2 li div { position: absolute; left: 0; bottom: 0; background: url(../images/list_yxtp_bg.png) repeat; text-align: center; height: 25px; line-height: 25px; width: 100%; color: #fff; }
+.banner1 { width: 800px; height: 368px; background: #CCC; margin-bottom: 15px; position: relative; }
+.FlashPic { top: 0; left: 0; width: 3995px; height: 368px; }
+.FlashPic li { float: left; position: relative; width: 800px; height: 368px; overflow: hidden; }
+.FlashPic a img { width: 800px; height: 368px; }
+.FlashPic em { display: block; background: #000; height: 40px; width: 800px; filter: alpha(opacity=50); -moz-opacity: 0.5; -khtml-opacity: 0.5; opacity: 0.5; position: absolute; bottom: 0; left: 0; }
+.FlashPic span { position: absolute; bottom: 0; left: 0; font-size: 18px; color: #fff; padding-left: 14px; height: 40px; line-height: 40px; width: 650px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.FlashPoint { width: 130px; height: 20px; position: absolute; bottom: 10px; right: 0; }
+.FlashPoint li { float: left; font-size: 14px; color: #fff; width: 20px; height: 20px; line-height: 20px; text-align: center; border-radius: 3px; background: #bfbfbf; cursor: pointer; margin-right: 5px; text-decoration: none; }
+.FlashPoint .on { background: #1f92d1 }
+.showhot { width: 385px; height: 523px; }
+.showhot li { display: block; width: 385px; border-bottom: 1px solid #EEE; }
+showhot li a:hover { text-decoration: none; }
+.showhot li a { position: relative; display: block; background: #fff; width: 295px; height: 41px; line-height: 41px; font-size: 14px; padding: 0 50px 0 30px; color: #666; text-decoration: none; }
+.showhot li a span, .showhot b { position: absolute; top: 0; font-weight: bold; font-size: 20px; color: #999; }
+.showhot b { left: 10px; }
+.showhot li a span.right { right: 10px; padding-left:20px; text-align: right; background-position: 0px -109px; background-image: url(../images/list_zwtp.png); background-repeat: no-repeat; font-size: 14px; font-weight: normal; }
+.showhot li .detal a { background: #fff!important; display: block; height: 135px; width: 135px; overflow: hidden; padding: 0px; }
+.showhot li .detal a img { width: 100%; }
+.showhot li .detal p { width: 205px; font-size: 14px; color: #999; }
+.showhot li .detal { overflow: hidden; background: #fff; padding: 10px; display: none; }
+.showhot .active .detal { display: block; }
+.showhot .active a { background: #ddd; }
+.showhot .piclist { margin-top: 8px; }
+.showhot li a, .pic_list span, .banner2 li div { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.NewPages li { _zoom: 1; *display:inline;
+}

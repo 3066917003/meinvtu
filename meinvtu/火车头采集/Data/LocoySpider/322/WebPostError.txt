@@ -1,0 +1,28 @@
+ID:1
+网址:http://www.27270.com/ent/meinvtupian/2015/12813.html
+Header:HTTP/1.1 200 OK
+Server:360wzws
+Date:Sun, 11 Sep 2016 20:48:28 GMT
+Content-Type:text/html; charset=utf-8
+Transfer-Encoding:chunked
+Connection:keep-alive
+X-Powered-By-360WZB:wangzhan.360.cn
+X-Powered-By:ASP.NET,PHP/5.4.28
+Content-Encoding:gzip
+Content-Length:21
+
+源代码:不存在的用户名
+========分隔线=======
+ID:1
+网址:http://www.27270.com/ent/meinvtupian/2015/12813.html
+Header:HTTP/1.1 200 OK
+Server:360wzws
+Date:Sun, 11 Sep 2016 20:49:11 GMT
+Content-Type:text/html; charset=utf-8
+Content-Length:0
+Connection:keep-alive
+X-Powered-By-360WZB:wangzhan.360.cn
+X-Powered-By:ASP.NET,PHP/5.4.28
+
+源代码:
+========分隔线=======

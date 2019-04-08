@@ -1,0 +1,34 @@
+@charset "gb2312";
+.MinHeader,.SeaNav { min-width:1200px; margin:0 auto;}
+.warp,.SeaNav ul { width:1200px;}
+.SeaSearch {float:right;}
+.MvScroll {width:1198px; border:1px solid #e5e5e5; background:#fff;}
+.MvScrollBox {width:1198px; height:290px;}
+.MvScrollBox ul {position:absolute; left:0; top:0; width:3880px; height:290px; overflow:hidden;}
+.MvScrollBox li {float:left; position:relative; width:198px; height:290px; margin-right:2px; overflow:hidden;}
+.MvScrollBox span { position:absolute; left:0; bottom:-60px; display:block; width:178px; padding:0 10px; line-height:25px; font-size:14px; color:#fff; background:url(../images/index_back.png) no-repeat; _background: none;
+_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="../images/index_back.png", sizingMethod="crop");}
+.prev ,.next {width:25px;height:50px;overflow:hidden;display:block}
+.prev {position:absolute; left:0; top:50%; margin-top:-30px; z-index:99;background:url(../images/list_mxtpHd_leftArrow.png) no-repeat;opacity:0.5;filter:Alpha(opacity=50)}
+.next {position:absolute; right:0; top:50%; margin-top:-30px; z-index:99;;background:url(../images/list_mxtpHd_rightArrow.png) no-repeat;opacity:0.5;filter:Alpha(opacity=50) }
+.hd-Scroll a:hover{opacity:0.9;filter:Alpha(opacity=90)}
+.MvMtNum {width:1180px; height:60px; padding:0 10px; overflow:hidden;}
+.MvMtNumHeight {width:100%; overflow:hidden;}
+.MvMtTit { float:left; height:25px; line-height:25px; padding:0 9px; background:#0066cc; color:#fff; font-size:14px; font-weight:normal; border-radius:5px; margin-right:15px;}
+.MvMtNum a {float:left; height:25px; line-height:25px; padding:0 7px; margin:0 10px 5px 0; border-radius:5px; font-size:14px; white-space:nowrap }
+.MvMtMore {width:100%; height:29px; line-height:29px; text-align:center; background:#eee; overflow:hidden;}
+.MvMtMore em{background-image:url(../images/list_mnmt.png); background-repeat: no-repeat; color:#aaa; padding-right:15px; cursor:pointer;}
+.MoreIco1 { background-position:right 5px;}
+.MoreIco2 { background-position:right -8px;}
+.MvMtNum .tag1:hover{background:#638c0b;}
+.MvMtNum .tag2:hover {background:#ec6941;}
+.MvMtNum .tag3:hover {background:#00479d;}
+.MvMtNum .tag4:hover,.MvMtNum .tag4{background:#6a3906;}
+.MvMtNum .tag5:hover {background:#59493f;}
+.MvMtNum .tag6:hover {background:#000000;}
+.MvMtNum .tag7:hover,.MvMtNum a.tag7{background:#c00;}
+.MvMtNum .tag8:hover {background:#000000;}
+.MvMtNum .tag9:hover,.MvMtNum .tag0:hover {background:#000000;}
+.MvMtNum a.tag4:link,.MvMtNum a.tag4:visited,.MvMtNum a.tag7:link,.MvMtNum a.tag7:visited {color:#fff!important;}
+.MvMtNum a:hover {color:#FFF!important;text-decoration:none;}
+.title { font-weight: normal; font-size: 24px; color: #1f92d1 }

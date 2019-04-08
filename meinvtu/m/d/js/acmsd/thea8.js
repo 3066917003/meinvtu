@@ -1,0 +1,1 @@
+document.write("<div style=\"width:298px;height:248px;text-align: center;border:1px solid #ECECEC;line-height:248px;background-color: #fff;color: #333;font-family: 微软雅黑 Light;font-size: 20px;\">广告ID:8 300*250</div>")

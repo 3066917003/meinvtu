@@ -1,0 +1,116 @@
+.star {width:960px; margin:0 auto;background:#FFF; box-shadow:0px 0px 10px 5px #ccc;}
+.star_wrap {width:940px; padding:10px; }
+.starBigBg {width:100%; overflow:hidden;}
+.hh {height:200px;}
+.star_pic {width:300px; height:450px; margin-right:20px; padding:8px; background:#fff; border:2px solid #ccc;}
+.starInfo {width:600px; float:right;}
+.starInfo h1 {height:40px; line-height:40px; float:left; margin-bottom:10px; font-size:24px;}
+.starInfo .fx {float:right; margin-top:10px; padding-right:20px;}
+.starInfoList {width:390px; overflow:hidden; float:left;}
+.starInfoList ul {width:390px;}
+.starInfoList li {float:left; padding-bottom:5px; line-height:20px; width:380px; font-size:14px;}
+.starInfoList li i {display:block; width:80px; overflow:hidden; height:20px; float:left; color:#999;}
+.starInfoList li p {display:block; width:290px; float:right;}
+.starInfoList li p em {display:block; float:left; width:20px; height:15px; overflow:hidden; margin:3px 5px 0 0; background:url(../images/flag.png) no-repeat;}
+.starInfoList li p em.flag_cn {} /*中国*/
+.starInfoList li p em.flag_tw {background-position:0 -30px;} /*台湾*/
+.starInfoList li p em.flag_hk {background-position:0 -60px;} /*香港*/
+.starInfoList li p em.flag_kr {background-position:0 -90px;} /*韩国*/
+.starInfoList li p em.flag_jp {background-position:0 -120px;} /*香港*/
+.starInfoList li p em.flag_usa {background-position:0 -150px;} /*香港*/
+.starInfoList li p em.flag_1 {background-position:0 -180px;} /*白羊*/
+.starInfoList li p em.flag_2 {background-position:0 -210px;} /*金牛*/
+.starInfoList li p em.flag_3 {background-position:0 -240px;} /*双子*/
+.starInfoList li p em.flag_4 {background-position:0 -270px;} /*巨蟹*/
+.starInfoList li p em.flag_5 {background-position:0 -300px;} /*狮子*/
+.starInfoList li p em.flag_6 {background-position:0 -330px;} /*处女*/
+.starInfoList li p em.flag_7 {background-position:0 -360px;} /*天秤*/
+.starInfoList li p em.flag_8 {background-position:0 -390px;} /*天蝎*/
+.starInfoList li p em.flag_9 {background-position:0 -420px;} /*射手*/
+.starInfoList li p em.flag_10 {background-position:0 -450px;} /*摩羯*/
+.starInfoList li p em.flag_11 {background-position:0 -480px;} /*水瓶*/
+.starInfoList li p em.flag_12 {background-position:0 -510px;} /*双鱼*/
+.starInfoList li p em.flag_A {background-position:0 -540px;} /*血型:A*/
+.starInfoList li p em.flag_B {background-position:0 -570px;} /*血型:B*/
+.starInfoList li p em.flag_O {background-position:0 -600px;} /*血型:O*/
+.starInfoList li p em.flag_AB {background-position:0 -630px;} /*血型:AB*/
+.starInfoList li a:link,.starInfoList li a:visited {color:#0093dd}
+.w640 {width:640px; overflow:hidden}
+.w300 {width:270px; overflow:hidden;}
+.typeTitle {height:30px; line-height:30px; margin-bottom:5px;}
+.typeTitle h2 {display:block; float:left; font-weight:normal; font-size:16px;}
+.movieBox {width:100%; overflow:hidden; height:130px;}
+.movieBox ul {width:110%}
+.movieBox li {float:left; width:80px; margin-right:13px; height:130px; line-height:23px;}
+.movieBox li span {display:block; height:23px; line-height:26px; font-size:12px; overflow:hidden; text-align:center;}
+.movieBox li span a:link,.movieBox li span a:visited {color:#0093dd}
+.movieBox li .PicBox {width:80px; height:107px; line-height:80px; overflow:hidden; vertical-align:middle; display: table-cell}
+.movieBox li .IB {width:80px; height:107px; overflow:hidden;}
+.movieBox li .PicBox img {display:;}
+.PicW120 .PicBox img {width:120px!important;}
+.PicW120 li,.PicW120 li .PicBox,.PicW120 li .IB {width:120px;}
+.LeftBtn1,.RightBtn1 {display:block; float:left; width:16px; height:14px; overflow:hidden; cursor:pointer; margin-top:10px}
+.LeftBtn1 {background:url(../images/qieBtnBg.png) no-repeat left top;}
+.RightBtn1 {background:url(../images/qieBtnBg.png) no-repeat -16px top;}
+.LeftBtn1:hover {background:url(../images/qieBtnBg.png) no-repeat left -20px;}
+.RightBtn1:hover {background:url(../images/qieBtnBg.png) no-repeat -16px -20px;}
+.starInfoTit {background:#f1f5fb; height:38px; line-height:38px; width:100%;}
+.starInfoTit h2 {display:block; float:left; padding:0 15px; background:#0093dd; font-size:16px; font-weight:normal; color:#FFF;}
+.starInfoBox { padding:10px; width:620px; overflow:hidden; line-height:26px; font-size:14px; color:#333;}
+.starInfoBox p {padding-bottom:10px; text-indent:2em;}
+.starInfoPic{display:block;width:219px; overflow:hidden; background:url(../images/bigPicBox.png) no-repeat left top; float:right; margin-left:30px;}
+.starInfoPic .StarInfoBg {width:190px;padding:10px 19px 0 10px; background:url(../images/bigPicBox.png) no-repeat; display:block;}
+.starInfoPic span {display:block; width:190px; height:30px; line-height:30px; text-align:center; padding:0 19px 10px 10px; background:url(../images/bigPicBox.png) no-repeat left bottom;}
+.starInfoPic img {padding:10px 0 0 10px}
+.starMagazine {width:930px; margin:0 15px; clear:both; overflow:hidden}
+.starMagazine ul {width:110%;}
+.starMagazine li {float:left; width:219px; padding:10px 0 0 0; background:url(../images/bigPicBox.png) no-repeat; margin-right:20px;}
+.starMagazine li .PB {width:190px; padding:0 19px 19px 10px; background:url(../images/bigPicBox.png) no-repeat left bottom;}
+.starMagazine li .PB span {display:block; width:100%; height:30px; line-height:40px; overflow:hidden; font-size:14px; text-align:center;}
+/**/
+#con{ width:960px;margin:20px auto;}
+#news{width:920px; background:#fff; border-radius:8px; padding:12px 20px; box-shadow:3px 3px 10px rgba(20,20,20,0.4); overflow:hidden;}
+#news h2{ font-size:16px;}
+#news ul{ margin-top:14px; width:110%; }
+#news li{ width:214px; padding:0px 0px 15px 0px; background:url(../images/bj.png) no-repeat left bottom;;  float:left; margin: 0 18px 12px 0; line-height:24px;}
+#news li a.StarListBigPic {display:block; width:200px; padding:2px 3px 3px 3px; border-top:1px solid #ccc;}
+.name{ width:200px;  text-align:center; }
+#sear{width:920px; height:110px; background:#fff; border-radius:8px; padding:20px 20px; box-shadow:2px 3px 10px rgba(20,20,20,0.4); overflow:hidden;}
+.add{ margin-bottom:20px; line-height:22px;}
+.add a{padding:0px 8px ; }
+.add .curr:link,.add .curr:visited {color:#FFF;}
+.add a:hover,.add .curr{background:#1e8fcf; color:#fff; display:inline-block; border-radius:5px;text-decoration:none; }
+#hr{width:920px; margin:20px 0;overflow:hidden; background:#fff; border-radius:8px; padding:18px 20px; box-shadow:3px 3px 10px rgba(20,20,20,0.4);}
+.hr{ width:110%;}
+.hr dl{ width:140px; float:left; margin:0 17px 25px 0;}
+.hr span {line-height:18px}
+.hr span a:hover {color:#1e8fcf}
+#hr dt{float:left; margin-right:10px; border:1px solid #ebeff0; width:52px; height:52px}
+.star1 a{ color:#333333; font-weight:bold; font-size:12px;}
+.MinStar a {color:#666;font-size:12px;}
+.data a{color:#999999; font-size:12px; }
+#hr a:hover{ text-decoration:none;}
+#imgList {position:relative}
+#imgList li {margin-top:20px;}
+.SideMore {width:290px; position:absolute; right:10px; top:0px;}
+.SideMore dl {line-height:30px;}
+.SideMore dt {width:100%; height:36px; line-height:36px;border-bottom:2px solid #0093dd; margin-bottom:10px;}
+.SideMore dt h2 {font-weight:normal; font-size:16px;}
+.SideMore dd {width:290px; overflow: hidden; height:82px; padding:10px 0; border-bottom:1px dashed #ccc; position:relative;}
+.SideMore dd .MorePic {width:70px; height:80px; float:left; overflow:hidden; margin-right:10px; border:1px solid #ccc; background: url(../images/PicBg.png) repeat;}
+.SideMore dd .MorePic  a {width:70px; height:80px; vertical-align: middle;display: table-cell;}
+.SideMore dd .MorePic  a img {padding:2px;}
+.SideMore dd strong {font-weight:normal; font-size:14px; line-height:20px;}
+.SideMore dd p {overflow: hidden;text-overflow: ellipsis;white-space: nowrap; color:#999; font-size:14px; line-height:26px;}
+.SideMore dd em {display:block; height:20px; line-height:20px; color:#999; position:absolute; left:90px; bottom:10px;}
+.sys {line-height:26px; font-size:12px;}
+.staList {width:100%; overflow:hidden}
+.staList ul {width:110%;}
+.staList li {width:80px; height:100px; float:left; margin:0 25px 20px 0; }
+.staList li span {display:block; height:19px; width:78px; border:1px solid #ccc; border-top:none; background:#eee; line-height:19px; text-align:center;/*white-space: nowrap;text-overflow: ellipsis;*/overflow: hidden;}
+
+
+.XGlink {width:100%; overflow:hidden}
+.XGlink dt {float:left; color:#f46; margin-right:10px; height:24px; line-height:24px; margin:0 10px 10px 0;}
+.XGlink dd {float:left; height:24px; line-height:24px; margin:0 10px 10px 0; background:#e5e5e5; padding:0 5px; }
+.XGlink dd a{white-space: nowrap;}

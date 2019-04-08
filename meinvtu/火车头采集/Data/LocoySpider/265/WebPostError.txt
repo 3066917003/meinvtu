@@ -1,0 +1,79 @@
+ID:1
+网址:http://www.27270.com/star/105073.html
+Header:HTTP/1.1 200 OK
+Date:Sun, 11 Sep 2016 06:10:24 GMT
+Server:Apache/2.4.10 (Win32) OpenSSL/0.9.8zb PHP/5.3.29
+X-Powered-By:PHP/5.3.29
+Content-Length:1036
+Keep-Alive:timeout=5, max=100
+Connection:Keep-Alive
+Content-Type:text/html; charset=utf-8
+
+源代码:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>信息提示</title>
+<link href="adminstyle/1/adminstyle.css" rel="stylesheet" type="text/css">
+<SCRIPT language=javascript>
+var secs=2;//3秒
+for(i=1;i<=secs;i++) 
+{ window.setTimeout("update(" + i + ")", i * 1000);} 
+function update(num) 
+{ 
+if(num == secs) 
+{ history.go(-1); } 
+else 
+{ } 
+}
+</SCRIPT>
+</head>
+
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table width="500" border="0" align="center" cellpadding="3" cellspacing="1" class="tableborder">
+  <tr class="header"> 
+    <td height="25"><div align="center">信息提示</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td height="80"> 
+      <div align="center">
+	  <br>
+        <b>修改信息成功</b>
+        <br>
+        <br><a href="javascript:history.go(-1)">如果您的浏览器没有自动跳转，请点击这里</a>
+<br><br>
+	  </div></td>
+  </tr>
+</table>
+</body>
+</html>
+========分隔线=======
+ID:30
+网址:http://www.27270.com/star/118407.html
+Header:HTTP/1.1 200 OK
+Date:Sun, 11 Sep 2016 06:12:02 GMT
+Server:Apache/2.4.10 (Win32) OpenSSL/0.9.8zb PHP/5.3.29
+X-Powered-By:PHP/5.3.29
+Content-Length:4383
+Content-Type:text/html; charset=utf-8
+
+源代码:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'F' Debut\xE3\x80\x8B\xE3\x80\x822005\xE5\xB9\xB4\xE9\xA6\x96\xE6\xAC\xA1\xE8\xBF' at line 1<br>update ***_ecms_star set titlepic='/d/file/titlepic/2016/09/11/2iv31cb2nz5.jpg',grjs='薛凯琪个人资料::::::/d/file/bigpic/2016/09/11/xdbvtd1exsg.jpg::::::<p>薛凯琪(Fiona Sit)，1981年8月11日出生于中国香港，毕业于香港城市大学，中国香港歌手、演员。2003年，薛凯琪在舅父的安排下进行试音顺利地与华纳唱片签约并加入华纳唱片，以此进入娱乐圈。2004年发行第一张个人唱片《'F' Debut》。2005年首次进军影圈。2012年举办首个红馆个人演唱会《Filicious Fiona in Concert 2012》，同年终止与华纳唱片公司续约加盟黄柏高旗下太阳娱乐文化。<br />
+<br />
+　　薛凯琪是家中独生女，父亲开设计公司，母亲开补习社，中学就读于南岛中学(国际学校)，其间曾修读法文。虽然她就读于国际学校，但也有报考会考， 中学毕业后入读城市大学，主修创意媒体，于2004年7月从香港城市大学创意媒体系毕业。18岁开始，出道前的薛凯琪开始兼职做三年模特儿。由于舅父Peter曾经是华星高层，故2003年便安排她试音，并顺利签了华纳唱片公司。起初参与拍摄多个广告及当杂志模特儿，及后投身娱乐界。</p>@@@@@薛凯琪方大同::::::/d/file/bigpic/2016/09/11/luufglfhvnl.jpg::::::<p>据香港媒体报道，薛凯琪昨天到电台宣传新歌《所有下雨天》，歌曲意思乃感谢上天和她爱过的人，薛凯琪称现在才晓得何为“真爱”。日前薛凯琪发生撞车意外，她称怕吓着父母，以后撞车就不会再说。<br />
+<br />
+　　薛凯琪表示：“爱有很多种，不一定要拥有对方，只要知道对方身体健康，开开心心已经可以是一种幸福，所以暗恋也是一种开心的爱，真爱无需要每天陪着去玩，或者拖住，(以前是缠人女友?)小时候总觉得一定要成天相聚，现在想法不同，就算没跟对方拍拖，只要对方是开心健康，有这个人存在，有机会认识到已经是福气，(方大同是否其一?)我不想因为宣传新歌而代入任何男女的名字，不想利用别人来宣传，所以大家也不要问我是谁。”<br />
+<br />
+　　薛凯琪下月将到台湾拍戏一个月，她有意安排父母间断到台湾逗留，顺道当放假去玩，薛凯琪说：“其实每次出外工作都有叫他们过来，可是他们都觉得无聊，因为只在旁边看着我工作，所以这次也不知他们会不会答应。”<br />
+<br />
+　　父亲节将至，薛凯琪表示已准备好礼物，但正物色一个清静地方吃饭，可以跟父母聊天。日前薛凯琪发生撞车意外，她表示：“下次如果撞车便不会再讲，因为会吓着父母，其次是电视台以哀伤声调报道我撞车事件，搞到不少人来电慰问，所以下次再不敢上传撞车意外的相片，(大同有否慰问你?)他不看娱乐新闻，应该不知此事。”</p>@@@@@薛凯琪房祖名::::::/d/file/bigpic/2016/09/11/2os234g2e1m.jpg::::::<p>4月16日消息，据香港媒体报道，薛凯琪被指发展新恋情，更被拍到与富二代新男友在酒店密会两小时，她澄清对方是她相识多年的同学好友，也没有在酒店密会。谈及旧爱房祖名，她称对方很有才华，不担心他的事业。<br />
+<br />
+　　对于早前被指发展新恋情，更被拍到与新男友在酒店密会两小时，她澄清自己单身：“对方是我相识多年的同学兼好友，我们只是相约一起逛街，只是经过酒店，根本没有所谓的酒店密会，影响了朋友真的感到不好意思，朋友还跟我投诉说怎么把他拍得那么胖，还有他年纪不是比我大很多呢。”<br />
+<br />
+　　另外谈及最近柯震东的电影戏份全被删掉，问到薛凯琪会否担心好友房祖名将来的事业也会受影响?她坦言：“不会担心，因为祖名是一个很有才华艺人。”</p>',weixin='/d/file/bigpic/2016/09/11/wf553jwifzj.jpg',bigbg='/d/file/bigpic/2016/09/11/0q0gcv04n3e.jpg',pic='/d/file/bigpic/2016/09/11/4ogizun53bl.jpg' where id='531'
+========分隔线=======

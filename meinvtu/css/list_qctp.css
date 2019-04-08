@@ -1,0 +1,39 @@
+.SeaNav ul,.warp { width: 1200px; min-width: 1200px; }
+.w110 { width: 110%; }
+.w1200 { width: 1200px; min-width: 1200px; margin: 0 auto; clear: both; overflow: hidden; }
+.HeaderBox .SeaSearch { float: right; }
+.Zw_PicList span, .Pic_list span { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.list_flash { width: 493px; height: 292px; margin-right: 10px; }
+.Pic_list, .Pic_list li { width: 493px; height: 292px; }
+.Pic_list li { display: none; position: relative; }
+.Pic_list span { position: absolute; left: 0; bottom: 0; display: block; width: 94%; padding: 0 3%; height: 48px; line-height: 48px; font-size: 18px; color: #fff; }
+.Pic_list em { position: absolute; left: 0; bottom: 0; display: block; width: 493px; height: 48px; background: #000; filter: alpha(opacity=50); -moz-opacity: 0.5; -khtml-opacity: 0.5; opacity: 0.5; }
+.hd { position: absolute; right: 10px; bottom: 12px; width: 120px; height: 23px; overflow: hidden }
+.hd li { float: left; margin-right: 7px; width: 23px; height: 23px; line-height: 23px; text-align: center; border-radius: 3px; background: #bfbfbf; color: #fff; font-size: 18px; cursor:pointer;}
+.hd li.on { background: #1f92d1; }
+.CarSize { width: 390px; height: 292px; }
+.CarSize li { position: relative; width: 190px; height: 140px; margin-bottom: 12px; }
+.CarSize span { position: absolute; top: 0; left: 0; display: block; width: 190px; height: 140px; background: url(../images/index_flash_Bj.png) no-repeat left top; _background: none; _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="../images/index_flash_Bj.png", sizingMethod="crop");
+font-size: 24px; color: #fff; font-weight: bold; line-height: 140px; text-align: center; }
+.bt1 { border-bottom: 1px solid #d0d0d0; }
+.Tag_list { width: 274px; height: 280px; background: #fff; border: 1px solid #d0d0d0; padding: 0 10px 10px 10px; }
+.Qc_Title { height: 35px; line-height: 35px; font-size: 24px; color: #1f92d1; font-weight: normal; }
+.Qc_Ico { background: url(../images/list_qctp.png) no-repeat left 10px; padding-left: 20px; }
+.Tag_list a { float: left; padding: 0 10px; height: 28px; line-height: 28px; font-size: 14px; color: #666; margin: 9px 3px 0 0; white-space: nowrap; }
+.Tag_list a.color_1 { background: #1f92d1; color: #fff; }
+.Tag_list a.color_2 { background: #c00; color: #fff; }
+.NumTit h1 { margin-right: 25px; }
+.NumTit { width: 100%; height: 37px; line-height: 37px; }
+.NumTit em, .NumTit a { float: left; font-size: 14px; }
+.NumTit em { font-weight: bold; color: #333; }
+.NumTit a { padding-left: 10px; color: #666; }
+.Zw_PicList li { float: left; width: 190px; height: 207px; margin: 0 10px 10px 0; border: 1px solid #cecece; background: #fff; padding: 20px 20px 5px 20px; }
+.Zw_PicList span { display: block; height: 30px; line-height: 30px; width: 100%; text-align: center; font-size: 14px; }
+.Article_Info { display: block; height: 25px; line-height: 25px; border-top: 1px dashed #ccc; width: 100%; overflow: hidden; color: #999; font-size: 12px; }
+.Zw_PicList u { display: block; float: left; border-radius: 3px; height: 18px; line-height: 18px; text-decoration: none; margin-top: 4px; }
+.Zw_PicList u a { color: #999; padding: 0 5px; background: #f3f2f3; display: block; float: left; border-radius: 3px; height: 18px; line-height: 18px; }
+.Zw_PicList u a:hover { background: #7fcf13; color: #fff; }
+.Zw_PicList em { display: block; padding-left: 20px; height: 25px; line-height: 25px; background: url(../images/new_icons.png) no-repeat 0 -86px; float: right; padding-right: 5px; }
+/*·ÖÒ³*/
+.NewPages li { display: inline-block; _zoom: 1; *display:inline;
+}

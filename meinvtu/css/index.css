@@ -1,0 +1,107 @@
+/*Header*/
+.SeaNav ul,.warp{ width: 1200px;min-width:1200px;}
+.SeaSearch {float:right;}
+.MoreKeyWords {width:580px; height:72px;margin:8px 0 0 0; float:left; overflow:hidden}
+.MoreKeyWords dt {height:72px; line-height:72px; font-size:14px; color:#1f92d1; float:left; margin-right:10px;}
+.MoreKeyWords dd {float:left;  height:24px; line-height:24px;}
+.MoreKeyWords dd a {white-space: nowrap;}
+.MoreKeyWords dd.tag1{font-size:18px; font-weight:bold}
+.MoreKeyWords dd.tag2{font-size:12px; }
+.MoreKeyWords dd.tag1 a:link,.MoreKeyWords dd.tag1 a:visited {color:#666}
+.MoreKeyWords dd.tag2 a:link,.MoreKeyWords dd.tag2 a:visited,.articleV2Info a:link,.articleV2Info a:visited {color:#999}
+.flash_1 { width: 610px; height: 340px; float:left; margin-right:20px; }
+.flash_list_1 { top: 0; left: 0; width: 3350px; height: 340px; }
+.flash_list_1 li { float: left; position: relative; width: 610px; height: 340px; overflow: hidden }
+.flash_list_1 em { position: absolute; left: 0; bottom: 0; display: block; width:580px; height: 80px; padding: 0 10px 0 20px; }
+.flash_list_1 span { display: block; width:580px; height: 30px; line-height: 32px; font-size: 16px; overflow: hidden; color: #fff; }
+.flash_list_1 p { font-size: 12px; line-height: 22px; overflow: hidden; color: #ccc; text-indent: 2em; display:block; }
+.flash_point { right: 0px; bottom: 0px; width: 60px; height: 25px; position:absolute }
+.flash_point a,.flash_point em { float: left; width: 20px; height: 20px; margin-right: 10px; border-radius: 3px; background-color: #84d313; background-image:url(../images/imagesV2.png); background-repeat: no-repeat; background-position: -134px 1px; cursor: pointer; filter: alpha(opacity=30);-moz-opacity: 0.3;-khtml-opacity: 0.3;opacity: 0.3;}
+.flash_point a.right_point,.flash_point em.right_point{ background-position: -164px 1px; }
+.flash_point a:hover,.flash_point em:hover{ background-color: #84d313;filter: alpha(opacity=80);-moz-opacity: 0.8;-khtml-opacity: 0.8;opacity: 0.8; }
+.flash_list_1 em, .flash_list_2 em, .flash_list_3 span,.Index_spec span,.IndexListUnion_1 li span,.IndexListUnion_2 li span,.IndexListUnion_2 .BigPic span{ background: url(../images/index_flash_Bj.png) no-repeat left top; _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="../images/index_flash_Bj.png", sizingMethod="crop");}
+.Index_top_Center {width:200px; height:340px; overflow:hidden; float:left;}
+.Index_Titles {width:100%; height:30px;}
+.Index_Titles em {display:block; height:20px; float:left; background:url(../images/imagesV2.png) no-repeat; width:20px;}
+.Index_Titles h2,.Index_Titles h3,.Index_Titles strong{display:block; float:left; height:20px; font-size:20px; font-weight:normal; line-height:20px; padding:0 0 0 7px;}
+.Index_Titles em.Ico_reset {background-position:-25px 0px; cursor:pointer}
+.Index_Titles em.Ico_Yun {background-position:-50px 0; width:31px;}
+.Index_Titles em.r {float:right;}
+.Index_spec {position:relative; z-index:1; overflow:hidden; float:left; clear:both;}
+.Index_spec span {display:block; height:30px; position:absolute; z-index:2; line-height:30px; left:0px; bottom:0px; width:96%; padding:0 2%; text-align:center; color:#FFF; font-size:15px}
+.Index_top_right {width:350px; float:right; height:340px; overflow:hidden;}
+.Index_NewUpdata {width:340px; padding:5px; background:#FFF; height:110px; overflow:hidden;}
+.Index_UpdataPic {width:145px; height:110px; overflow:hidden; position:relative; float:left; margin-right:10px;}
+.Ico_new {width:40px; height:40px; overflow:hidden; position:absolute; left:0px; top:0px; background:url(../images/Ico_new.png) no-repeat;}
+.Index_NewInfo {width:185px; float:left; height:110px; overflow:hidden; position:relative; z-index:1}
+.Index_NewInfo strong {display:block; line-height:20px; font-size:14px; font-weight:normal;}
+.Index_NewInfo p {display:block; height:50px; line-height:25px; text-indent:2em; overflow:hidden; color:#999}
+.Index_NewInfo em {display:block; height:20px; position:absolute; z-index:2; background:url(../images/imagesV2.png) no-repeat -280px 2px;padding-left:20px; bottom:0px; color:#999; line-height:20px}
+.Index_NewInfo em a:link,.Index_NewInfo em a:visited {color:#999;}
+.Index_NewInfo em a:hover {color:#333}
+.Index_NewInfo em.Ico_List {left:0px;}
+.Index_NewInfo em.Ico_Clock{right:0px; background-position:-522px 2px;}
+.Index_NewInfo .EmBox {}
+.NewUpdataList {width:350px; height:190px; overflow:hidden;}
+.NewUpdataList li {width:100%; float:left; height:28px; line-height:28px; font-size:14px; overflow:hidden; white-space:nowrap; text-overflow:ellipsis;}
+.NewUpdataList li,.NewUpdataList .TypeUrl { color:#1f92d1}
+.NewUpdataList .TypeUrl a:link,.NewUpdataList .TypeUrl a:visited {color:#1f92d1;}
+.NewUpdataList span {display:block;float:left; overflow:hidden; height:28px; }
+.ChannelBanner {width:210px; height:275px; background:url(../images/imagesV2.png) no-repeat; padding:5px; overflow:hidden; float:left; position:relative; left:0; top:0; z-index:1;}
+.Banner_Orange {background-position:0 -30px; height:270px}
+.Banner_red {background-position:-280px -30px; }
+.Banner_Blue {background-position:-560px -30px}
+.Banner_Green {background-position:0  -824px}
+.Banner_violet {background-position:-280px  -427px}
+.Banner_yellow {background-position:-560px  -427px}
+.ChannelTit {height:70px; width:100%; text-align:center; text-shadow:2px 2px 2px #333; color:#FFF;}
+.ChannelTit h2,.ChannelTit h3,.ChannelTit strong {display:inline-block; height:40px; line-height:40px; padding-left:40px; font-weight:normal; font-size:30px}
+.ChannelTit a:link,.ChannelTit a:visited {color:#fff;}
+.ChannelTit a:hover {color:#fff;}
+.ChannelIco_MM {background:url(../images/Ico_mm.png) no-repeat 5px center;}
+.ChannelIco_animal {background:url(../images/Ico_animal.png) no-repeat 5px center}
+.ChannelIco_wallpaper {background:url(../images/Ico_Windows.png) no-repeat 5px center}
+.ChannelIco_scenery {background:url(../images/Ico_tree.png) no-repeat 5px center}
+.ChannelIco_food {background:url(../images/Ico_food.png) no-repeat 5px center}
+.ChannelIco_car {background:url(../images/Ico_car.png) no-repeat 5px center}
+.ChannelTit span {display:block; height:30px; font-size:16px;}
+.BannerTagList {width:100%; overflow:hidden; position:absolute; left:5px; bottom:5px;}
+.BannerTagList li {width:60px; padding:0 5px; float:left;height:45px; text-align:center; overflow:hidden; background:rgba(255,255,255,0.1);}
+.BannerTagList li a {display:block; line-height:15px; font-size:14px; color:#FFF;}
+.BannerTagList li a:link,.BannerTagList li a:visited {color:#fff}
+li.C1 { background:rgba(255,255,255,0.3) }
+.BannerTagList li:hover,li.C1:hover {background:none;}
+.IndexListUnion_1 {width:970px; height:280px; overflow:hidden; float:right;}
+.IndexListUnion_1 ul{width:980px;}
+.IndexListUnion_1 li {width:190px; height:280px; float:left; margin-right:5px; overflow:hidden; position:relative; z-index:1;}
+.IndexListUnion_1 li:hover,.IndexListUnion_2 li:hover {filter: alpha(opacity=80);-moz-opacity: 0.8;-khtml-opacity: 0.8;opacity: 0.8;}
+.IndexListUnion_1 li span,.IndexListUnion_2 li span  {width:96%; padding:0 2%; display:block; height:30px; line-height:30px; overflow:hidden; position:absolute; left:0px; bottom:0px; text-align:center; color:#FFF; font-size:14px}
+.IndexListUnion_2 {width:970px; height:285px; overflow:hidden; float:right;}
+.IndexListUnion_2 .BigPic {width:385px; height:285px; overflow:hidden; float:left; position:relative; z-index:1; margin-right:5px}
+.IndexListUnion_2 .BigPic span {display:block; height:40px; line-height:40px;width:96%; padding:0 2%; display:block; overflow:hidden; position:absolute; left:0px; bottom:0px; text-align:center; color:#FFF; font-size:14px}
+.IndexListUnion_3 {width:580px; overflow:hidden; height:285px; float:left;}
+.IndexListUnion_3 ul { width:590px}
+.IndexListUnion_3 li {width:190px; height:140px; overflow:hidden; position:relative; z-index:1; margin:0 5px 5px 0; float:left; }
+.TypeBannerTitle {width:100%; height:50px; line-height:50px; overflow:hidden;}
+.TypeBannerTitle h2,.TypeBannerTitle h3,.TypeBannerTitle strong {display:block; float:left; font-size:30px; font-weight:normal; color:#1f92d1;}
+.TypeBannerTitle a:link,.TypeBannerTitle a:visited {color:#1f92d1;}
+.TypeBannerTitle span {display:block; float:left; font-size:20px; color:#ccc; height:50px; line-height:60px; padding-left:5px; }
+.TypeBannerTitle span.fs_14 {font-size:14px;}
+.TypeBannerTitle ul {float:right; height:50px; line-height:60px; }
+.TypeBannerTitle ul li {float:left; padding:0 10px; font-size:14px; color:#1f92d1}
+.TypeBannerTitle ul.TagTypeList {height:30px; margin-top:10px; line-height:30px; }
+.TypeBannerTitle ul.TagTypeList li { cursor:pointer;border-radius:5px;}
+.TypeBannerTitle ul.TagTypeList li.this {background:#1f92d1; color:#fff;}
+.ChannelStar {width:100%; overflow:hidden}
+.ChannelStar ul {width:105%; clear:both;}
+.ChannelStar .TxtList li {float:left; width:470px; height:30px; line-height:30px; overflow:hidden; font-size:14px; margin-right:20px;}
+.ChannelStar .starList li {width:80px; height:100px; float:left; margin:0 21px 20px 0; }
+.ChannelStar .starList li img { border-radius:100%;}
+.ChannelStar .starList li span {display:block; height:24px; width:78px;line-height:24px; text-align:center; border-top:none;overflow: hidden;}
+.ChannelStar .starList li:hover {filter: alpha(opacity=80);-moz-opacity: 0.8;-khtml-opacity: 0.8;opacity: 0.8;}
+.MoreStar li a:hover { text-shadow:1px 1px 1px #a6e0ff}
+.QieBox {float:left; width:100%;}
+.QieBox a {display:block; float:left; margin:0 10px 10px 0; height:24px; line-height:24px; background:#FFF; padding:0 10px; border-radius:5px;}
+.QieBox a:hover {background:#333; color:#fff}
+.FlinksBox {width:100%; line-height:24px;}
+.FlinksBox a {display:block; padding:0 5px; margin-right:10px; height:24px; float:left;white-space: nowrap; }

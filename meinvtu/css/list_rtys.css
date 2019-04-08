@@ -1,0 +1,36 @@
+﻿.w1200 {width:1200px; margin:0 auto;}
+.MinHeader,.SeaHeader,.SeaNav { min-width:1200px; margin:0 auto;}
+.warp,.SeaNav ul { width:1200px;}
+.SeaSearch {float:right;}
+.Ad_960 { width:960px; margin:0 auto;}
+.TagPicList {width:100%;}
+.TagPicList ul {width:105%; float:left;}
+.TagPicList li {float:left; width:130px; padding:5px; background:#FFF;box-shadow: 3px 3px 3px #ccc; height:160px; margin-right:11px; border-radius:5px;}
+.TagPicList li span.TagPicList li h2 {display:block; width:100%; overflow:hidden; font-size:16px;height:20px; line-height:20px; color:#999; text-align:center; font-size:14px;}
+.TagPicList li h2 {font-weight:normal; text-align:center;}
+.TagPicList li img {-webkit-border-radius: 100%; -moz-border-radius: 100%; border-radius: 100%;}
+.TagPicList li span.H30,.TagPicList li h2.H30 {height:30px; line-height:30px; font-size:16px;}
+.TagPicList li span.H30 a:link,.TagPicList li span.H30 a:visited,.TagPicList li h2.H30 a:link,.TagPicList li h2.H30 a:visited {color:#333;}
+.picScroll-left{ overflow:hidden; position:relative;  border:1px solid #ccc; border-radius:10px; background:#fff; box-shadow: 3px 3px 3px #ccc;  }
+.picScroll-left .hd{ overflow:hidden;  height:30px; padding:5px 10px 0 10px;   }
+.picScroll-left .hd .pageState{display:none;}
+.picScroll-left .hd h1 {height:30px; display:block; float:left; line-height:30px; font-size:22px; font-weight:normal; color:#1f92d1;}
+.picScroll-left .hd .prev,.picScroll-left .hd .next{ display:block;  width:9px; height:9px; float:right; margin-right:5px; margin-top:10px;  overflow:hidden;
+ cursor:pointer; background:url(../images/list_rtys.png) no-repeat;}
+.picScroll-left .hd .next{ background-position:0 -90px;  }
+.picScroll-left .hd .prevStop{ background-position:0 -110px; }
+.picScroll-left .hd .nextStop{ background-position:0px -130px; }
+.picScroll-left .hd ul{ float:right; overflow:hidden; zoom:1; margin-top:10px; zoom:1; padding-right:5px }
+.picScroll-left .hd ul li{ float:left;  width:9px; height:9px; overflow:hidden; margin-right:5px; text-indent:-999px; cursor:pointer; background:url(../images/list_rtys.png) 0 -60px no-repeat; }
+.picScroll-left .hd ul li.on{ background-position:0 -30px; }
+.picScroll-left .bd{ padding:9px;   }
+.picScroll-left .bd .tempWrap {width:1180px; overflow:hidden;height:228px;}
+.picScroll-left .bd .tempWrap ul {width:130%;}
+.picScroll-left .bd ul{ overflow:hidden; zoom:1; }
+.picScroll-left .bd ul li{float:left; _display:inline; overflow:hidden; text-align:center; width:155px; height:228px; position:relative;margin-right:15px;}
+.picScroll-left .bd ul li .pic{ text-align:center; }
+.picScroll-left .bd ul li .pic img{ width:155px; height:228px; display:block;}
+.picScroll-left .bd ul li .pic:hover img{opacity:0.9;filter:Alpha(Opacity=90);}
+.picScroll-left .bd ul li .title{ line-height:30px; height:30px; width:100%;color:#fff; background:rgba(0,0,0,0.5); position:absolute; left:0px; bottom:0px; font-size:14px;}
+.picScroll-left .bd ul li .title a:link,.picScroll-left .bd ul li .title a:visited {color:#fff;}
+.MeinvTuPianBox h2 {font-size: 24px; font-weight: normal; color: #2092d1;}

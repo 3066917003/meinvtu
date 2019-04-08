@@ -1,0 +1,11 @@
+ID:67
+网址:http://www.27270.com/game/youxijietu/2012/2247.html
+Header:HTTP/1.1 500 Internal Server Error
+Date:Mon, 12 Sep 2016 13:38:49 GMT
+Server:Microsoft-IIS/6.0
+X-Powered-By:ASP.NET,PHP/5.4.28
+Content-Type:text/html; charset=utf-8
+Content-Length:0
+
+源代码:
+========分隔线=======

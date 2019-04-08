@@ -1,0 +1,75 @@
+ID:12
+网址:http://www.27270.com/word/chebiao/2015/7736.html
+Header:HTTP/1.1 200 OK
+Date:Sun, 11 Sep 2016 05:22:07 GMT
+Server:Apache/2.4.10 (Win32) OpenSSL/0.9.8zb PHP/5.3.29
+X-Powered-By:PHP/5.3.29
+Content-Length:4207
+Content-Type:text/html; charset=utf-8
+
+源代码:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'mouse' class='PicHover'><div class='leftCur' ></div><div class='rightCur' ></div' at line 1<br>update ***_ecms_news_data_1 set newstext='<p align="center">
+	<div id='mouse' class='PicHover'><div class='leftCur' ></div><div class='rightCur' ></div><img alt="宝马" src="/d/file/bigpic/2016/09/11/mieiopgemre.jpg" /></div></p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 宝马标志标志以蓝白黑三种颜色组成，象征过去该公司在航空发动机技术方面的领先地位，又象征其在广阔的时空中，以先进的精湛技术、最新的观念，满足顾客的最大愿望，反映了公司蓬勃向上的气势和日新月异的新面貌，中间的蓝白相间图案代表蓝天，白云和旋转不停的螺旋浆，喻示宝马公司渊源悠久的历史。　　　　　</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1918年11月，第一次世界大战结束，德国成为战败国，他们的飞机被&ldquo;凡尔塞条约&rdquo;列为&ldquo;战争武器&rdquo;禁止生产，于是公司进行了一系列的重组，并购入希利奥士厂的制造权，但后来发觉helios的摩托车一无是处，差点把bmw拖垮。</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 宝马与一些车坛老大哥如菲亚特、福特、雷诺、劳斯莱斯等相比下显得是一间很年青的车厂。但是在20世纪30年代它却制造出了世界上最好的跑车和豪华轿车，它从二战的破坏和50年代的财政衰退中恢复过来。70年代早期，它再度成为世界高性能和豪华轿车市场上的主角之一，并一直延续至今。宝马的全称是巴伐利亚汽车制造厂。它是由一个制造飞机引擎的公司于1916年3月注册的。这家公司第一个成功的产品是由费兹设计的直列六缸发动机，在第一次世界大战时装配在德国战斗机上。德国王牌飞行员恩斯特&middot;乌德特把他们成功的很大一部分归功于宝马的引擎。</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1922年，bmw自己研制了第一台的摩托车发动机，虽然不被采纳，但已为车厂定下了重要的方向，之后在nuremberg的victoria-worke厂房重新制造了一台由麦克斯&middot;费兹设计的500ml风冷水平对置的两汽缸摩托车发动机，装配在革命性的r-32摩托车上，它的动力是通过传动轴而不是链条传递到后轮，r-32为经典的宝马摩托车定下了样本。1924年 宝马把r-32投入市场竞争很快就获得了成功。</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 宝马想要制造它自己的轿车，但它不想挑战那时大型的戴姆勒奔驰汽车，所以决定尝试一些小型车。那时一家名为艾逊力运输工业的工厂拥有一个名字叫华特堡(wartburg)，后改名为迪西(dixi)的汽车品牌。当时迪西汽车销售欠佳，所以向英国奥斯丁(austin)车厂申请在德国制造7型车的权利，1927年正式投入生产，改名为dixi 315 dai(da即德国版)，这款受到德国顾客欢迎的英德混血儿，令车厂转换生机。在宝马的股东眼里，艾逊力和bmw合并是一次品牌提高的最佳良机，终于在1928年两家合并了。1928年，BMW收购了埃森那赫汽车厂，并开始生产汽车。 1929年7月，bmw推出首辆汽车315，是将年初生产的dixi 315转名来的，但专家不同意dixi 315是bmw第一辆汽车，无论如何，bmw的315一直生产至1932年末，历时近6年。迪西是非常基本的交通工具，但它使宝马走进了四轮世界。它看上去怎么也不像一辆赛车，然而迪西的拥有者却迫不及待地在赛道上开始了试车，令人惊奇的是一辆迪西车居然在1929年的阿尔派拉力赛中取得了成功。之后，BMW将许多汽车制造史上的杰作推向市场，这些产品不断激发出强烈的感情和人们的渴望，铸就了BMW公司作为一家汽车制造商的杰出声誉。</p>
+<b>
+	
+	</b>' where id='4455'
+========分隔线=======
+ID:12
+网址:http://www.27270.com/word/chebiao/2015/7736.html
+Header:HTTP/1.1 200 OK
+Date:Sun, 11 Sep 2016 05:27:52 GMT
+Server:Apache/2.4.10 (Win32) OpenSSL/0.9.8zb PHP/5.3.29
+X-Powered-By:PHP/5.3.29
+Content-Length:4207
+Content-Type:text/html; charset=utf-8
+
+源代码:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'mouse' class='PicHover'><div class='leftCur' ></div><div class='rightCur' ></div' at line 1<br>update ***_ecms_news_data_1 set newstext='<p align="center">
+	<div id='mouse' class='PicHover'><div class='leftCur' ></div><div class='rightCur' ></div><img alt="宝马" src="/d/file/bigpic/2016/09/11/mieiopgemre.jpg" /></div></p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 宝马标志标志以蓝白黑三种颜色组成，象征过去该公司在航空发动机技术方面的领先地位，又象征其在广阔的时空中，以先进的精湛技术、最新的观念，满足顾客的最大愿望，反映了公司蓬勃向上的气势和日新月异的新面貌，中间的蓝白相间图案代表蓝天，白云和旋转不停的螺旋浆，喻示宝马公司渊源悠久的历史。　　　　　</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1918年11月，第一次世界大战结束，德国成为战败国，他们的飞机被&ldquo;凡尔塞条约&rdquo;列为&ldquo;战争武器&rdquo;禁止生产，于是公司进行了一系列的重组，并购入希利奥士厂的制造权，但后来发觉helios的摩托车一无是处，差点把bmw拖垮。</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 宝马与一些车坛老大哥如菲亚特、福特、雷诺、劳斯莱斯等相比下显得是一间很年青的车厂。但是在20世纪30年代它却制造出了世界上最好的跑车和豪华轿车，它从二战的破坏和50年代的财政衰退中恢复过来。70年代早期，它再度成为世界高性能和豪华轿车市场上的主角之一，并一直延续至今。宝马的全称是巴伐利亚汽车制造厂。它是由一个制造飞机引擎的公司于1916年3月注册的。这家公司第一个成功的产品是由费兹设计的直列六缸发动机，在第一次世界大战时装配在德国战斗机上。德国王牌飞行员恩斯特&middot;乌德特把他们成功的很大一部分归功于宝马的引擎。</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1922年，bmw自己研制了第一台的摩托车发动机，虽然不被采纳，但已为车厂定下了重要的方向，之后在nuremberg的victoria-worke厂房重新制造了一台由麦克斯&middot;费兹设计的500ml风冷水平对置的两汽缸摩托车发动机，装配在革命性的r-32摩托车上，它的动力是通过传动轴而不是链条传递到后轮，r-32为经典的宝马摩托车定下了样本。1924年 宝马把r-32投入市场竞争很快就获得了成功。</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 宝马想要制造它自己的轿车，但它不想挑战那时大型的戴姆勒奔驰汽车，所以决定尝试一些小型车。那时一家名为艾逊力运输工业的工厂拥有一个名字叫华特堡(wartburg)，后改名为迪西(dixi)的汽车品牌。当时迪西汽车销售欠佳，所以向英国奥斯丁(austin)车厂申请在德国制造7型车的权利，1927年正式投入生产，改名为dixi 315 dai(da即德国版)，这款受到德国顾客欢迎的英德混血儿，令车厂转换生机。在宝马的股东眼里，艾逊力和bmw合并是一次品牌提高的最佳良机，终于在1928年两家合并了。1928年，BMW收购了埃森那赫汽车厂，并开始生产汽车。 1929年7月，bmw推出首辆汽车315，是将年初生产的dixi 315转名来的，但专家不同意dixi 315是bmw第一辆汽车，无论如何，bmw的315一直生产至1932年末，历时近6年。迪西是非常基本的交通工具，但它使宝马走进了四轮世界。它看上去怎么也不像一辆赛车，然而迪西的拥有者却迫不及待地在赛道上开始了试车，令人惊奇的是一辆迪西车居然在1929年的阿尔派拉力赛中取得了成功。之后，BMW将许多汽车制造史上的杰作推向市场，这些产品不断激发出强烈的感情和人们的渴望，铸就了BMW公司作为一家汽车制造商的杰出声誉。</p>
+<b>
+	
+	</b>' where id='4455'
+========分隔线=======
+ID:12
+网址:http://www.27270.com/word/chebiao/2015/7736.html
+Header:HTTP/1.1 200 OK
+Date:Sun, 11 Sep 2016 05:32:37 GMT
+Server:Apache/2.4.10 (Win32) OpenSSL/0.9.8zb PHP/5.3.29
+X-Powered-By:PHP/5.3.29
+Content-Length:4207
+Content-Type:text/html; charset=utf-8
+
+源代码:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'mouse' class='PicHover'><div class='leftCur' ></div><div class='rightCur' ></div' at line 1<br>update ***_ecms_news_data_1 set newstext='<p align="center">
+	<div id='mouse' class='PicHover'><div class='leftCur' ></div><div class='rightCur' ></div><img alt="宝马" src="/d/file/bigpic/2016/09/11/mieiopgemre.jpg" /></div></p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 宝马标志标志以蓝白黑三种颜色组成，象征过去该公司在航空发动机技术方面的领先地位，又象征其在广阔的时空中，以先进的精湛技术、最新的观念，满足顾客的最大愿望，反映了公司蓬勃向上的气势和日新月异的新面貌，中间的蓝白相间图案代表蓝天，白云和旋转不停的螺旋浆，喻示宝马公司渊源悠久的历史。　　　　　</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1918年11月，第一次世界大战结束，德国成为战败国，他们的飞机被&ldquo;凡尔塞条约&rdquo;列为&ldquo;战争武器&rdquo;禁止生产，于是公司进行了一系列的重组，并购入希利奥士厂的制造权，但后来发觉helios的摩托车一无是处，差点把bmw拖垮。</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 宝马与一些车坛老大哥如菲亚特、福特、雷诺、劳斯莱斯等相比下显得是一间很年青的车厂。但是在20世纪30年代它却制造出了世界上最好的跑车和豪华轿车，它从二战的破坏和50年代的财政衰退中恢复过来。70年代早期，它再度成为世界高性能和豪华轿车市场上的主角之一，并一直延续至今。宝马的全称是巴伐利亚汽车制造厂。它是由一个制造飞机引擎的公司于1916年3月注册的。这家公司第一个成功的产品是由费兹设计的直列六缸发动机，在第一次世界大战时装配在德国战斗机上。德国王牌飞行员恩斯特&middot;乌德特把他们成功的很大一部分归功于宝马的引擎。</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1922年，bmw自己研制了第一台的摩托车发动机，虽然不被采纳，但已为车厂定下了重要的方向，之后在nuremberg的victoria-worke厂房重新制造了一台由麦克斯&middot;费兹设计的500ml风冷水平对置的两汽缸摩托车发动机，装配在革命性的r-32摩托车上，它的动力是通过传动轴而不是链条传递到后轮，r-32为经典的宝马摩托车定下了样本。1924年 宝马把r-32投入市场竞争很快就获得了成功。</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 宝马想要制造它自己的轿车，但它不想挑战那时大型的戴姆勒奔驰汽车，所以决定尝试一些小型车。那时一家名为艾逊力运输工业的工厂拥有一个名字叫华特堡(wartburg)，后改名为迪西(dixi)的汽车品牌。当时迪西汽车销售欠佳，所以向英国奥斯丁(austin)车厂申请在德国制造7型车的权利，1927年正式投入生产，改名为dixi 315 dai(da即德国版)，这款受到德国顾客欢迎的英德混血儿，令车厂转换生机。在宝马的股东眼里，艾逊力和bmw合并是一次品牌提高的最佳良机，终于在1928年两家合并了。1928年，BMW收购了埃森那赫汽车厂，并开始生产汽车。 1929年7月，bmw推出首辆汽车315，是将年初生产的dixi 315转名来的，但专家不同意dixi 315是bmw第一辆汽车，无论如何，bmw的315一直生产至1932年末，历时近6年。迪西是非常基本的交通工具，但它使宝马走进了四轮世界。它看上去怎么也不像一辆赛车，然而迪西的拥有者却迫不及待地在赛道上开始了试车，令人惊奇的是一辆迪西车居然在1929年的阿尔派拉力赛中取得了成功。之后，BMW将许多汽车制造史上的杰作推向市场，这些产品不断激发出强烈的感情和人们的渴望，铸就了BMW公司作为一家汽车制造商的杰出声誉。</p>
+<b>
+	
+	</b>' where id='4455'
+========分隔线=======

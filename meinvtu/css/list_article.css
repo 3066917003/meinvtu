@@ -1,0 +1,45 @@
+.w640 {width:620px; float:left; overflow:hidden;}
+.listT {width:100%; height:40px; line-height:40px;}
+.listT strong {font-weight:normal; font-size:30px;}
+.ListIco,.fileIco {display:block; width:40px; height:40px; overflow:hiddem; float:left; background:url(../images/List_Ico.png) no-repeat left center;}
+.fileIco {background:url(../images/file_Ico.png) no-repeat left center;}
+.ListContent {width:100%; overflow:hidden;}
+.ListContent ul { }
+.ListContent li {width:94%; padding:20px 3%; border-bottom:1px dashed #ccc; height:192px; position:relative;}
+.ListPicBox {width:190px; height:190px; border:1px solid #ccc; float:left; overflow:hidden; margin-right:20px; background:url(../images/PicBg.png) repeat;}
+.ListPicBox a {display:block; vertical-align: middle; display: table-cell; width:190px; height:190px; }
+.ListContent li strong {line-height:26px; font-size:22px; font-weight:normal; height:56px; display:block;}
+.ListContent li strong a:link,.ListContent li strong a:visited {color:#036;}
+.ListContent li span { color:#999; position:absolute; left:220px; bottom:20px; width:380px; display:block; line-height:20px;}
+.ListContent li p {line-height:26px;font-size:14px; text-indent:1em; color:#333;}
+.ListContent li em {display:block; height:22px; line-height:24px;}
+.ListContent li em.ClickIco {padding-left:20px; background:url(../images/TimeIco.png) no-repeat left center;}
+.ListContent li em.GoodIco {padding-left:20px; background:url(../images/GoodIco.png) no-repeat left center;}
+.bgF {background:#fff;}
+/*page*/
+.PagesNew{text-align:center;height:39px; line-height:32px;font-size:14px; color:#666; margin-top:05px; padding-bottom:5px; position: relative;}
+.PagesNew ul {float:left;position: relative;left: 50%;}
+.PagesNew li {position: relative;right: 50%;float: left;margin: 0 3px;}
+.PagesNew a{font-family:"\5b8b\4f53";display:inline-block; height:32px; text-align:center; padding:0 14px;  background:#fff; border:1px solid #e0e0e0;
+ border-radius:2px;color:#666;
+background:-moz-linear-gradient(top, #ffffff, #eaeaea); /* Firefox */
+background:-webkit-gradient(linear, left top, left bottom, color-stop(0, #ffffff), color-stop(1, #eaeaea)); /* Saf4+, Chrome */
+filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#eaeaea', GradientType='0'); /* IE*/}
+.PagesNew .active,.PagesNew .thisclass a{border-color:#036; background:#036; color:#fff;filter:none;font-weight:bold}
+.PagesNew a:hover{border-color:#036; color:#036;}
+.PagesNew .active:hover,.PagesNew .thisclass a:hover{border-color:#036; background:#036; color:#fff;}
+
+.ListSideTit {width:100%; height:38px; line-height:38px; overflow:hidden; border-top:2px solid #003366; background:#0054a8;}
+.ListSideTit em {display:block;height:38px; width:50%; float:left; color:#FFF; font-size:14px; color:#FFF; text-align:center; font-weight:bold; cursor:pointer;}
+.ListSideTit .BGline {background:url(../images/sideBGline.png) no-repeat right center;}
+.ListSideTit .this {background:#003366;}
+.SideNewQie {width:100%; overflow:hidden;}
+.SideNewQie li {width:100%; width:100%;height:80px; float:left; overflow:hidden; padding:10px 0 11px 0; clear:both; border-bottom:1px dashed #ccc}
+.SideNewQie li .sPic {width:80px; height:80px; float:left; margin:0 10px 0 0; background:#FFF; overflow:hidden}
+.SideNewQie li .sPic a {display:block; width:80px; height:80px; vertical-align: middle; display: table-cell;}
+.SideNewQie li strong {line-height:30px; font-weight:normal; font-size:14px;}
+.SideNewQie li span {display:block; height:20px; line-height:20px; color:#999;}
+.ListSideSpec {width:100%; overflow:hidden;}
+.ListSideSpec ul {width:110%}
+.ListSideSpec li {float:left; width:145px; height:140px; overflow:hidden; margin:0 10px 10px 0;}
+.ListSideSpec li span {display:block; width:100%; text-align:center; height:30px; line-height:30px; font-size:14px;}

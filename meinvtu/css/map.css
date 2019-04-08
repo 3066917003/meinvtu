@@ -1,0 +1,10 @@
+.webMapBox {width:940px; padding:10px; background:#FFF; box-shadow: 0 3px 3px #c5c5c5;}
+.webMapTit {height:40px; border-bottom:2px solid #1e94d5; line-height:40px;}
+.webMapTit h1 {padding:0 10px; font-size:22px; font-weight:; color:#134278}
+.MapChannelName {width:100%; overflow:hidden; padding:10px 0; margin-bottom:10px; border-bottom:1px dashed #ccc; float:left; clear:both;}
+.MapChannelName dt {height:30px; width:100%; overflow:hidden; margin-bottom:10px; border-bottom:#CCC;}
+.MapChannelName dt a {display:block; height:30px; overflow:hidden; padding:0 15px; line-height:30px; float:left; font-weight:bold; background:#134278; color:#FFF; border-radius:5px;}
+.MapChannelName dt a:link,.MapChannelName dt a:visited {color:#FFF;}
+.MapChannelName dd {float:left; margin-right:15px;}
+.MapChannelName dd a {display:block;padding:0 15px; font-size:14px; line-height:28px; height:28px;border-radius:5px; border:1px solid #fff; }
+.MapChannelName dd a:hover {background:#1e94d5; color:#fff; border-color:#134278}

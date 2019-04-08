@@ -1,0 +1,24 @@
+﻿.warp,.SeaNav ul { width:1200px;}
+.MinHeader,.SeaNav { min-width:1200px; margin:0 auto;}
+.SeaSearch {float:right;}
+.Ad_960 { width:960px; margin:0 auto;}
+.FJ_leftBox {width:770px; float:left; overflow:hidden; height:200px; padding:10px 14px; border:1px solid #edeced; background:#fff; border-radius:10px;}
+.FJ_leftBox h2.Tit1 {display:block; height:25px; line-height:25px; padding:0 10px; background:#1f92d1; color:#fff; float:left; border-radius:5px; margin-bottom:3px; font-size:14px; font-weight:normal; margin-right:10px;}
+.FJ_leftBox a {display:block; float:left; height:25px; line-height:25px; margin-bottom:5px; padding:0 10px; font-size:14px; border-radius:5px; white-space: nowrap;}
+.FJ_leftBox a:hover {color:#fff; background:#70c218}
+.FJ_leftBox h2.Tit2 {display:block; height:30px; line-height:30px; clear:both; margin-bottom:5px; font-size:16px; font-weight:normal; width:100%; background:url(../images/BgT1.png) no-repeat 95px center;color:#1f92d1;}
+.FJ_leftBox em {display:block; height:30px; width:20px; overflow:hidden;background:url(../images/IcoRunk.png) no-repeat center center;float:left;}
+.boxflash { float: left; width: 380px; height:215px; padding:4px 4px 0 4px;border:1px solid #1f92d1; position: relative; text-align: center; overflow: hidden }
+.boxflashCont { float: left; width: 380px;  height: auto;  margin: 0;position: relative; z-index: 1; overflow: hidden;}
+.boxflashCont .boxflashtext1 { float: left; width: 360px; height: 30px; line-height: 30px; margin: 0; padding: 0 10px; text-align: left; font-size: 14px; font-weight: 500px; font-family: "微软雅黑", "黑体", "Arial"; color: #fff; position: absolute; left: 0; bottom: 0px; _bottom: 0px; z-index: 4 }
+.boxflashCont .boxflashtext1 a { color: #fff; font-size: 14px; font-weight:500px; font-family: "微软雅黑", "黑体", "Arial"; letter-spacing: 2px }
+.boxflashCont .boxflashbg1 { float: left; width: 380px; height:30px; margin: 0; padding: 0; background: #000; opacity: 0.5; filter: Alpha(Opacity=50); position: absolute; left: 0; bottom: 0px; *bottom:0px;z-index: 2 }
+.boxflashCont ul { width: 380px; height:160px; overflow: hidden; position:relative; }
+.boxflashTop { float: left; width: 380px; height: 52px; margin: 0; padding: 0;  z-index: 0;}
+.boxflashTop ul { float: left; width: 390px; margin: 0; padding: 0px 0 0px 1px; overflow: hidden;  }
+.boxflashTop li { float: left; width: 70px; opacity: 0.3; filter: Alpha(Opacity=30); padding-right:7px; position:relative; height:50px;}
+.boxflashTop li.hover { float: left; width: 70px; height: 50px; cursor: pointer; opacity: 1; filter: Alpha(Opacity=100) }
+.boxflashTop img { width:70px; height: 45px; overflow: hidden; position:absolute; left:0px; bottom:0px; }
+.boxflashTop span {display:block; height:50px; width:70px; overflow:hidden; z-index:1; position:absolute; left:0px; bottom:0px;}
+.boxflashTop li.hover span {background:url(../images/List_fjtp_thisHD.png) no-repeat;}
+.MeinvTuPianBox li { padding:15px 15px 5px 17px;}

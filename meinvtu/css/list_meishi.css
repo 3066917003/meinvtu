@@ -1,0 +1,38 @@
+@charset "gb2312";
+.MinHeader,.SeaNav { min-width:1200px; margin:0 auto;}
+.warp,.SeaNav ul { width:1200px; margin:0 auto;}
+.SeaSearch {float:right;}
+.mr3 { margin-right: 3px; }
+.mr15 { margin-right: 15px; }
+.mstp_box {width:1200px; height:320px; overflow:hidden;}
+.BigBox { width: 236px; height: 320px; overflow: hidden; }
+.BigBox a, .MinBox a { display: block; width: 236px; height: 320px; position: relative; overflow: hidden; text-decoration: none; }
+.MiniBoxs {width:240px; height:159px; margin-bottom:3px;; overflow:hidden}
+.showTitBg span { display: block; line-height: 25px; padding:8px 0 8px 7px; border-bottom: 1px dashed #fff; font-size: 18px; font-weight: bold }
+.showTitBg p { display: block; padding:0 3px 0 7px; line-height: 20px; text-indent: 2em; clear: both; margin:5px 0;}
+.MinBox { width: 240px; height: 320px; overflow: hidden; }
+.MinBox a { width: 240px; height: 159px; overflow:hidden;}
+.showTitBg { position: absolute; left: 0px; bottom: -200px; width: 96%; padding: 0 2%; background: url(../images/index_back.png) no-repeat; _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://www.27270.com/images/index_back.png", sizingMethod="crop");
+color: #FFF; overflow: hidden; }
+.showSmall { height:159px;}
+.MsNumList {width:370px; min-height:120px; _height:120px; padding:0 10px; background-color:#fff; border-radius:5px; box-shadow:3px 3px 3px #c4c2c3;}
+.MsNumList,.MsTitle { background-image:url(../images/list_meishi.png); background-repeat:no-repeat;}
+.MsTitle {height:30px; line-height:30px; padding-left:30px; font-size:16px; color:#1a8bcc; font-weight:normal;}
+.Ms_Ico1 { background-position:0 8px;}
+.Ms_Ico2 { background-position:0 -25px; padding-left:26px;}
+.Ms_Ico3 { background-position:0 -55px;}
+.Ms_Ico4 {background-position:right -85px;}
+.Ms_Ico5 {background-position:right -205px;}
+.Ms_Ico6 {background-position:right -330px;}
+.MsNumList a {float:left; line-height:20px; margin:0 10px 10px 0; padding:0 8px; border-radius:5px; white-space:nowrap; font-size:14px;}
+.MsNumList a:hover { text-decoration:none;}
+.MsNumList .Ftc0 {background:#009e00; color:#fff;}
+.MsNumList .Ftc1,.MsNumList .Ftc1:hover {background:#004499; color:#fff;}
+.MsNumList .Ftc2,.MsNumList .Ftc2:hover {background:#1eb400; color:#fff;}
+.MsNumList .Ftc3,.MsNumList .Ftc3:hover {background:#ee6644; color:#fff;}
+.MsNumList .Ftc4,.MsNumList .Ftc4:hover {background:#84d313; color:#fff;}
+.MsNumList .Ftc5:hover {background:#638c0b; color:#fff;}
+.MsNumList .Ftc6:hover {background:#ec6941; color:#fff;}
+.MsNumList .Ftc7:hover {background:#00479d; color:#fff;}
+.MsNumList .Ftc8:hover {background:#6a3906; color:#fff;}
+.MsNumList .Ftc9:hover {background:#59493f; color:#fff;}

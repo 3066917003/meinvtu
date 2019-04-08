@@ -1,0 +1,38 @@
+@charset "gb2312";
+.MinHeader,.SeaHeader,.SeaNav { min-width:1200px; margin:0 auto;}
+.warp,.SeaNav ul { width:1200px; margin:0 auto;}
+.mr13 { margin-right:13px;}
+.SeaSearch {float:right}
+.Ad_960 { width:960px; margin:0 auto;}
+.GaoxiaoBox { width: 100%; }
+.Gx-hd, .Gx-box { width: 300px; height: 340px; }
+.Gx-hd { margin-right: 17px; }
+.left_arrow, .right_arrow { position: absolute; top: 50%; margin: -60px 0 0 0; z-index: 99; }
+.left_arrow { left: 0; }
+.right_arrow { right: 0; }
+.left_arrow a, .right_arrow a { width: 25px; height: 50px; overflow: hidden; display: block; background: url(../images/index_Gaoxiao.png) no-repeat; opacity: 0.5; filter: Alpha(opacity=50) }
+.left_arrow a { background-position: 0 0; }
+.right_arrow a { background-position: 0 -60px; }
+.left_arrow a:hover, .right_arrow a:hover { opacity: 0.7; filter: Alpha(opacity=70) }
+.Gx-box ul { position: absolute; left: 0px; top: 0px; float: left; width: 1500px; }
+.Gx-box li { float: left; display: none; }
+.pro_nav {display:block; width: 300px; height: 40px; background: #000; opacity: 0.5; filter: Alpha(opacity=50); position: absolute; left: 0px; bottom: 0px; color: #FFF; }
+.InfoBox { width: 270px; height: 40px; line-height:40px; padding: 0 15px; position: absolute; left: 0px; bottom: 0px; color: #FFF; font-size:16px;}
+.InfoBox span { display: block; font-size: 16px; width: 100%; height: 40px; line-height: 40px; font-size: 15px; text-align: left; }
+.pro_nav_list { display: none; }
+.Gx-center { width: 595px; }
+.Gx-list { width: 190px;}
+.Gx-list li { position: relative; }
+.Gx-list1, .Gx-list1 li { width: 190px; height: 120px; overflow: hidden;}
+.Gx-list span { display: block; position: absolute; left: 0; bottom: -80px; width: 96%; padding: 5px 2%; line-height: 23px; color: #fff; font-size: 14px; background: url(../images/index_back.png) no-repeat; _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="../images/index_back.png", sizingMethod="crop");
+}
+.Gx-list2, .Gx-list2 li { width: 190px; height: 210px; overflow: hidden; }
+.Gx-Tag { width: 262px; height: 340px; padding: 0 4px; background: url(../images/index_Gaoxiao_tag.png) no-repeat left top; }
+.Gx-Tag-Tit { height: 37px; line-height: 37px; padding-left: 40px; background: url(../images/index_Gaoxiao.png) no-repeat 16px -110px; font-size: 20px; color: #fff; text-shadow: 2px 2px 2px #1e4f87; font-weight:normal; }
+.Gx-Tag a { float: left; width: 77px; height: 50px;padding:5px; text-align: center; font-size: 14px; text-shadow: 2px 2px 2px #1e4f87; overflow: hidden; _margin-right:-1px; }
+.Gx-Tag a:link,.Gx-Tag a:visited {color:#fff;}
+.Gx-Tag span { display:block; width:100%;line-height:20px;}
+.Gx-Tag span.S20 { height:20px; padding:15px 0;}
+.Gx-Tag span.S40 {height:40px; padding:5px 0;}
+.Gx-Tag .bj { background: #2f8dc7; }
+.Gx-Tag a:hover { background: #0066cc; text-decoration: none; }

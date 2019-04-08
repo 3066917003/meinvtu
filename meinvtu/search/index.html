@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>高级搜索 - Powered by EmpireCMS</title>
+<link href="localhostskin/default/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="localhostskin/default/js/tabs.js"></script>
+<script src="localhoste/data/images/setday.js"></script>
+</head>
+<body class="listpage">
+<!-- 页头 -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="top">
+<tr>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="63%">
+<!-- 登录 -->
+<script>
+document.write('<script src="localhoste/member/login/loginjs.php?t='+Math.random()+'"><'+'/script>');
+</script>
+</td>
+<td align="right">
+<a onclick="window.external.addFavorite(location.href,document.title)" href="#ecms">加入收藏</a> | <a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('localhost')" href="#ecms">设为首页</a> | <a href="localhoste/member/cp/">会员中心</a> | <a href="localhoste/DoInfo/">我要投稿</a> | <a href="localhoste/web/?type=rss2" target="_blank">RSS<img src="localhostskin/default/images/rss.gif" border="0" hspace="2" /></a>
+</td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="10">
+<tr valign="middle">
+<td width="240" align="center"><a href="localhost"><img src="localhostskin/default/images/logo.gif" width="200" height="65" border="0" /></a></td>
+<td align="center"><a href="http://www.phome.net/OpenSource/" target="_blank"><img src="localhostskin/default/images/opensource.gif" width="100%" height="70" border="0" /></a></td>
+</tr>
+</table>
+<!-- 导航tab选项卡 -->
+<table width="920" border="0" align="center" cellpadding="0" cellspacing="0" class="nav">
+  <tr> 
+    <td class="nav_global"><ul>
+        <li class="curr" id="tabnav_btn_0" onmouseover="tabit(this)"><a href="localhost">首页</a></li>
+        <li id="tabnav_btn_1" onmouseover="tabit(this)"><a href="localhostnews/">新闻中心</a></li>
+        <li id="tabnav_btn_2" onmouseover="tabit(this)"><a href="localhostdownload/">下载中心</a></li>
+        <li id="tabnav_btn_3" onmouseover="tabit(this)"><a href="localhostmovie/">影视频道</a></li>
+        <li id="tabnav_btn_4" onmouseover="tabit(this)"><a href="localhostshop/">网上商城</a></li>
+        <li id="tabnav_btn_5" onmouseover="tabit(this)"><a href="localhostflash/">FLASH频道</a></li>
+        <li id="tabnav_btn_6" onmouseover="tabit(this)"><a href="localhostphoto/">图片频道</a></li>
+        <li id="tabnav_btn_7" onmouseover="tabit(this)"><a href="localhostarticle/">文章中心</a></li>
+        <li id="tabnav_btn_8" onmouseover="tabit(this)"><a href="localhostinfo/">分类信息</a></li>
+      </ul></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+	<tr valign="top">
+		<td class="list_content"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="position">
+				<tr>
+					<td>现在的位置：<a href='localhost'>首页</a>&nbsp;>&nbsp;<a href='../search/'>高级搜索</a>&nbsp;></td>
+				</tr>
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="box">
+				<tr>
+					<td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+						<tr>
+							<td><form action='localhoste/search/index.php' method="post" name="search_news" id="search_news">
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											<td width="54%"><table width="100%" border="0" cellpadding="6" cellspacing="0">
+													<tr>
+														<td bgcolor="#F4F4F4"><strong>搜索范围</strong></td>
+													</tr>
+											</table></td>
+											<td width="46%"><table width="100%" border="0" cellpadding="6" cellspacing="0">
+													<tr>
+														<td bgcolor="#F4F4F4"><strong>搜索栏目</strong></td>
+													</tr>
+											</table></td>
+										</tr>
+										<tr>
+											<td valign="top"><table width="100%" border="0" cellpadding="6" cellspacing="0">
+													<tr>
+														<td><input type="radio" name="show" value="title" checked="checked" />
+															标题
+															<input type="radio" name="show" value="smalltext" />
+															简介
+															<input type="radio" name="show" value="newstext" />
+															内容
+															<input type="radio" name="show" value="writer" />
+															作者
+															<input name="show" type="radio" value="title,smalltext,newstext,writer" />
+															不限</td>
+													</tr>
+												</table>
+													<br />
+													<table width="100%" border="0" cellpadding="6" cellspacing="0">
+														<tr bgcolor="#F4F4F4">
+															<td><strong>时间限制</strong><font color="#666666">(0000-00-00为不限制)</font></td>
+														</tr>
+														<tr>
+															<td height="30" valign="top">从
+																<input name="starttime" type="text" value="0000-00-00" size="12" onclick="setday(this)" />
+																到
+																<input name="endtime" type="text" value="0000-00-00" size="12" onclick="setday(this)" />
+																之间的数据</td>
+														</tr>
+														<tr>
+															<td bgcolor="#F4F4F4"><strong>价格限制</strong><font color="#666666">(商城模型中有效,0为不限制)</font></td>
+														</tr>
+														<tr>
+															<td>从
+																<input name="startprice" type="text" id="startprice" value="0" size="6" />
+																到
+																<input name="endprice" type="text" id="endprice" value="0" size="6" />
+																元之间</td>
+														</tr>
+												</table></td>
+											<td valign="top"><table width="100%" border="0" cellspacing="6" cellpadding="0">
+													<tr>
+														<td><select name="classid" size="8" id="select2" style="width: 100%;height:112px">
+																<option value="0" selected="selected">所有栏目</option>
+															<option value='1'>|-图看世界</option><option value='2' style='background:#99C4E3'>&nbsp;&nbsp;|-图说社会</option><option value='3' style='background:#99C4E3'>&nbsp;&nbsp;|-风景图片</option><option value='4' style='background:#99C4E3'>&nbsp;&nbsp;|-搞笑图片</option><option value='5' style='background:#99C4E3'>&nbsp;&nbsp;|-动物图片</option><option value='6' style='background:#99C4E3'>&nbsp;&nbsp;|-汽车标志</option><option value='7' style='background:#99C4E3'>&nbsp;&nbsp;|-美食图片</option><option value='8'>|-娱乐周边</option><option value='9' style='background:#99C4E3'>&nbsp;&nbsp;|-八卦图片</option><option value='10' style='background:#99C4E3'>&nbsp;&nbsp;|-人体艺术</option><option value='12' style='background:#99C4E3'>&nbsp;&nbsp;|-明星图片</option><option value='13' style='background:#99C4E3'>&nbsp;&nbsp;|-美女图片</option><option value='17' style='background:#99C4E3'>&nbsp;&nbsp;|-美女模特</option><option value='18' style='background:#99C4E3'>&nbsp;&nbsp;|-电影海报</option><option value='11' style='background:#99C4E3'>|-明星库</option><option value='19'>|-唯美图片</option><option value='20' style='background:#99C4E3'>&nbsp;&nbsp;|-高清壁纸</option><option value='22' style='background:#99C4E3'>&nbsp;&nbsp;|-动漫图片</option><option value='23' style='background:#99C4E3'>&nbsp;&nbsp;|-汽车图片</option><option value='25' style='background:#99C4E3'>&nbsp;&nbsp;|-非主流图片</option><option value='26' style='background:#99C4E3'>&nbsp;&nbsp;|-背景图片</option><option value='27'>|-游戏动漫</option><option value='28' style='background:#99C4E3'>&nbsp;&nbsp;|-游戏新闻</option><option value='29' style='background:#99C4E3'>&nbsp;&nbsp;|-游戏原画</option><option value='30' style='background:#99C4E3'>&nbsp;&nbsp;|-邪恶漫画</option><option value='31' style='background:#99C4E3'>&nbsp;&nbsp;|-Cosplay</option><option value='32'>|-其他图片</option><option value='33' style='background:#99C4E3'>&nbsp;&nbsp;|-萌图</option><option value='34' style='background:#99C4E3'>&nbsp;&nbsp;|-装修设计</option><option value='35' style='background:#99C4E3'>&nbsp;&nbsp;|-纹身图片</option><option value='36' style='background:#99C4E3'>&nbsp;&nbsp;|-植物图片</option><option value='14'>|-广告位</option><option value='15' style='background:#99C4E3'>&nbsp;&nbsp;|-明星图片(160*119)</option><option value='16' style='background:#99C4E3'>&nbsp;&nbsp;|-明星图片(238)</option><option value='21' style='background:#99C4E3'>&nbsp;&nbsp;|-高清壁纸推荐分类</option><option value='24' style='background:#99C4E3'>&nbsp;&nbsp;|-汽车图片推荐分类</option>
+          
+														</select></td>
+													</tr>
+												</table>
+													<table width="100%" border="0" cellpadding="6" cellspacing="0">
+														<tr>
+															<td bgcolor="#F4F4F4"><strong>结果显示</strong></td>
+														</tr>
+														<tr>
+															<td height="30"><select name="orderby" id="select4">
+																	<option value="">按发布日期</option>
+																	<option value="id">信息ID</option>
+																	<option value="plnum">评论数</option>
+																	<option value="onclick">人气</option>
+																	<option value="totaldown">下载数</option>
+																</select>
+																	<select name="myorder" id="select5">
+																		<option value="0">倒序排列</option>
+																		<option value="1">顺序排列</option>
+																	</select>
+															</td>
+														</tr>
+												</table></td>
+										</tr>
+									</table>
+								<table width="100%" border="0" cellpadding="4" cellspacing="0">
+										<tr>
+											<td>关键字：
+												<input name="keyboard" type="text" id="keyboard2" size="60" />
+													<input type="submit" name="Submit22" value="搜索" />
+											</td>
+										</tr>
+									</table>
+							</form></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table></td>
+	</tr>
+</table>
+<div class="footer">
+	<div class="warp">
+    	<div class="footer_logo mr15"><a href="#" title="27270图片大全-图片分享基地">27270图片大全-图片分享基地</a></div>
+        <dl>
+        <dt><a href="/word/" title="图看世界">图看世界</a></dt>
+            <dd><a href="/word/shehuibaitai/" title="图说社会">图说社会</a></dd><dd><a href="/word/fengjingsheying/" title="风景图片">风景图片</a></dd><dd><a href="/word/gaoxiaoqutu/" title="搞笑图片">搞笑图片</a></dd><dd><a href="/word/dongwushijie/" title="动物图片">动物图片</a></dd><dd><a href="/word/chebiao/" title="汽车标志">汽车标志</a></dd><dd><a href="/meishitupian/" title="美食图片">美食图片</a></dd>  
+        </dl>
+         <dl>
+        	<dt><a href="/ent/" title="娱乐周边">娱乐周边</a></dt>
+            <dd><a href="/ent/mingxingbagua/" title="八卦图片">八卦图片</a></dd><dd><a href="/ent/rentiyishu/" title="人体艺术">人体艺术</a></dd><dd><a href="/ent/mingxingtuku/" title="明星图片">明星图片</a></dd><dd><a href="/ent/meinvtupian/" title="美女图片">美女图片</a></dd><dd><a href="/ent/lianglimeimo/" title="美女模特">美女模特</a></dd><dd><a href="/ent/haibao/" title="电影海报">电影海报</a></dd>  
+        </dl>
+         <dl>
+        	<dt><a href="/beautiful/" title="唯美图片">唯美图片</a></dt>
+            <dd><a href="/beautiful/zhuomianbeijing/" title="高清壁纸">高清壁纸</a></dd><dd><a href="/beautiful/dongmantupian/" title="动漫图片">动漫图片</a></dd><dd><a href="/beautiful/qichetuku/" title="汽车图片">汽车图片</a></dd><dd><a href="/beautiful/feizhuliutupian/" title="非主流图片">非主流图片</a></dd><dd><a href="/beautiful/beijingtupian/" title="背景图片">背景图片</a></dd>  
+        </dl>
+         <dl>
+        	<dt><a href="/game/" title="游戏动漫">游戏动漫</a></dt>
+            <dd><a href="/game/youxixinwen/" title="游戏新闻">游戏新闻</a></dd><dd><a href="/game/youxijietu/" title="游戏原画">游戏原画</a></dd><dd><a href="/game/xieemanhua/" title="邪恶漫画">邪恶漫画</a></dd><dd><a href="/game/cosplaymeitu/" title="Cosplay">Cosplay</a></dd>  
+        </dl>
+		<dl>
+        	<dt><a href="/qita/" title="其他图片">其他图片</a></dt>
+            <dd><a href="/qita/mengtu/" title="萌图">萌图</a></dd><dd><a href="/zhuangxiusheji/" title="装修设计">装修设计</a></dd><dd><a href="/wenshentupian/" title="纹身图片">纹身图片</a></dd><dd><a href="/zhiwu/" title="植物图片">植物图片</a></dd>  
+        </dl>
+        <div class="hr101"></div>
+        <div class="center wf">
+        	<p> &copy; 2012 中国最大的图库大全，分享高清、唯美的图片，尽在<a href="http://<?=$public_r['add_www_92game_net_www']?>/" title="<?=$public_r[sitename]?>"><?=$public_r[sitename]?></a> 请记住我们的网址 <?=$public_r['add_www_92game_net_www']?>
+			<script type="text/javascript">tongji();//统计</script></p>
+        </div>
+        <div class="hr10"></div>
+    </div>
+</div>
+</body>
+</html>

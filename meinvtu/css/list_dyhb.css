@@ -1,0 +1,26 @@
+@charset "gb2312";
+.w110 { width:110%;}
+.dy_flash li,.dy_list li {float:left;}
+.SeaSearch {float:right;}
+.dy_flash span,.dy_list span {overflow:hidden; white-space:nowrap; text-overflow:ellipsis;}
+.MinHeader .warp,.SeaHeader .warp,.SeaNav ul { width: 1200px;min-width:1200px;}
+.w1200 { width: 1200px; min-width:1200px; margin:0 auto; clear:both; overflow:hidden;}
+.dy_Title {font-size:24px; color:#1f92d1; font-weight:normal;}
+.dy_flash { width:1178px; border:1px solid #7f7e7f; background:#fff; padding:10px;}
+.dy_flash li { position:relative; margin-right:2px; width:234px; height:343px;}
+.dy_flash em,.dy_flash span {position:absolute; left:0; bottom:0; width:233px; height:35px;}
+.dy_flash em { background:#000; filter:alpha(opacity=50);-moz-opacity:0.5;-khtml-opacity: 0.5;opacity: 0.5;}
+.dy_flash span {width:213px; padding:0 10px; line-height:35px; color:#fff; font-size:14px;}
+.hd a {position:absolute; top:131px; display:block; width:43px; height:102px; background-color:#000; filter:alpha(opacity=50);-moz-opacity:0.5;-khtml-opacity: 0.5;opacity: 0.5; color:#fff; font-size:30px; background-image:url(../images/list_dyhb_point.png); background-repeat:no-repeat; cursor:pointer;}
+.hd a:hover { filter:alpha(opacity=70);-moz-opacity:0.7;-khtml-opacity: 0.7;opacity: 0.7;}
+.next {right:0; background-position:11px 34px;}
+.prev {left:0; background-position:11px -34px;}
+.bt1 {padding-bottom:5px; border-bottom:1px solid #ccc;}
+.dy_list li {width:190px; height:338px; padding:20px; margin:0 10px 10px 0; background:#fff; border:1px solid #ccc; overflow:hidden;}
+.dy_list span {display:block; width:190px; height:30px; line-height:30px; text-align:center;}
+.Article_Info { display: block; height: 25px; line-height: 25px; border-top: 1px dashed #ccc; width: 100%; overflow: hidden; color: #999; font-size: 12px; }
+.Article_Info u { display: block; float: left; border-radius: 3px; height: 18px; line-height: 18px; text-decoration: none; margin-top: 4px; }
+.Article_Info u a { color: #999; padding: 0 5px; background: #f3f2f3; display: block; float: left; border-radius: 3px; height: 18px; line-height: 18px; }
+.Article_Info u a:hover { background: #7fcf13; color: #fff; }
+.Article_Info em { display: block; padding-left: 20px; height: 25px; line-height: 25px; background: url(../images/new_icons.png) no-repeat 0 -86px; float: right; padding-right: 5px; }
+.NewPages li {_zoom:1; *display:inline;}

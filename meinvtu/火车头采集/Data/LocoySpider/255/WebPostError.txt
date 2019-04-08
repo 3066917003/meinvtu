@@ -1,0 +1,121 @@
+ID:1
+网址:http://www.27270.com/word/shehuibaitai/2015/133956.html
+Header:HTTP/1.1 200 OK
+Date:Sun, 11 Sep 2016 06:26:43 GMT
+Server:Apache/2.4.10 (Win32) OpenSSL/0.9.8zb PHP/5.3.29
+X-Powered-By:PHP/5.3.29
+Content-Length:4088
+Content-Type:text/html; charset=utf-8
+
+源代码:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'mouse' class='PicHover'><span class='leftCur' ></span><span class='rightCur' ></' at line 1<br>update ***_ecms_news_data_1 set newstext='<center>
+	<center>
+		<strong id='mouse' class='PicHover'><span class='leftCur' ></span><span class='rightCur' ></span><img alt="男子买9部6S屏幕刻字 献劈腿女友" height="588" src="/d/file/bigpic/2016/09/11/klwss3dls1g.jpg" width="440" /></strong></center>
+	<p align="center">
+		　　男子买6s屏幕刻字</p>
+	<p style="text-align: left;">
+		　　近日，一男子买了9部6s屏幕刻字，祭奠自己逝去的爱情，引起网友热议。微博名为&ldquo;莫骑少&rdquo;的网友上传了9张照片，每一张照片都是一台在屏幕刻了字的iPhone 6s手机，屏幕的字全部串起来是&ldquo;去年九月，你为一部苹果6，劈腿我朋友，谢谢你瞧不起，我才会更努力，在分手一周年，谨用9部6s，来悼念那段，万劫不复的爱情&rdquo;，并在微博配文写道：&ldquo;我不知道这条微博你会不会看到，也不知道他会不会看到，虽然我知道你最终还是被他甩了。这些都不重要。我在9部苹果6S上刻字，只是为了祭奠我那份曾经刻骨铭心又万劫不复的爱情...&rdquo;</p>
+	<p style="text-align: left;">
+		　　对此，网友调侃：&ldquo;你还缺女友吗?&rdquo;也有朋友对此表示质疑：&ldquo;好可怜的钢化膜&rdquo;、&ldquo;一看就是一部手机，9张钢化膜&rdquo;。</p>
+	<p style="text-align: left;">
+		　　<b>
+	
+	</b> [!--empirenews.page--]</p>
+	<center>
+		<strong id='mouse' class='PicHover'><span class='leftCur' ></span><span class='rightCur' ></span><img alt="男子买9部6S屏幕刻字 献劈腿女友(2)" height="587" src="/d/file/bigpic/2016/09/11/kmgzhxn2snz.jpg" width="440" /></strong></center>
+	<center>
+		<strong id='mouse' class='PicHover'><span class='leftCur' ></span><span class='rightCur' ></span><img alt="男子买9部6S屏幕刻字 献劈腿女友(2)" height="588" src="/d/file/bigpic/2016/09/11/w5lzjpb35bv.jpg" width="440" /></strong></center>
+	<center>
+		<strong id='mouse' class='PicHover'><span class='leftCur' ></span><span class='rightCur' ></span><img alt="男子买9部6S屏幕刻字 献劈腿女友(2)" height="588" src="/d/file/bigpic/2016/09/11/tush2a05wvc.jpg" width="440" /></strong></center>
+	<p align="center">
+		　　男子买6s屏幕刻字</p>
+	<p align="center">
+		　　<b>
+	
+	</b> [!--empirenews.page--]</p>
+	<center>
+		<strong id='mouse' class='PicHover'><span class='leftCur' ></span><span class='rightCur' ></span><img alt="男子买9部6S屏幕刻字 献劈腿女友(3)" height="588" src="/d/file/bigpic/2016/09/11/banras5xhbh.jpg" width="440" /></strong></center>
+	<center>
+		<strong id='mouse' class='PicHover'><span class='leftCur' ></span><span class='rightCur' ></span><img alt="男子买9部6S屏幕刻字 献劈腿女友(3)" height="587" src="/d/file/bigpic/2016/09/11/nbedcayua5x.jpg" width="440" /></strong></center>
+	<center>
+		<strong id='mouse' class='PicHover'><span class='leftCur' ></span><span class='rightCur' ></span><img alt="男子买9部6S屏幕刻字 献劈腿女友(3)" height="587" src="/d/file/bigpic/2016/09/11/k0xdcgvp2wq.jpg" width="440" /></strong></center>
+	<p align="center">
+		　　男子买6s屏幕刻字</p>
+	<p align="center">
+		　　<b>
+	
+	</b> [!--empirenews.page--]</p>
+	<center>
+		<div id='mouse' class='PicHover'><div class='leftCur' ></div><div class='rightCur' ></div><img alt="男子买9部6S屏幕刻字 献劈腿女友(4)" height="587" src="/d/file/bigpic/2016/09/11/uc43zmvcf5z.jpg" width="440" /></div></center>
+	<center>
+		<div id='mouse' class='PicHover'><div class='leftCur' ></div><div class='rightCur' ></div><img alt="男子买9部6S屏幕刻字 献劈腿女友(4)" height="587" src="/d/file/bigpic/2016/09/11/mw51h2dtiv5.jpg" width="440" /></div></center>
+	<p align="center">
+		　　男子买6s屏幕刻字</p>
+</center>
+<b>
+	
+	</b>' where id='4'
+========分隔线=======
+ID:1
+网址:http://www.27270.com/word/shehuibaitai/2015/133956.html
+Header:HTTP/1.1 200 OK
+Date:Sun, 11 Sep 2016 06:31:14 GMT
+Server:Apache/2.4.10 (Win32) OpenSSL/0.9.8zb PHP/5.3.29
+X-Powered-By:PHP/5.3.29
+Content-Length:4100
+Keep-Alive:timeout=5, max=100
+Connection:Keep-Alive
+Content-Type:text/html; charset=utf-8
+
+源代码:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'mouse' class='PicHover'><span class='leftCur' ></span><span class='rightCur' ></' at line 1<br>update ***_ecms_news_data_1 set newstext='addslashes(<center>
+	<center>
+		<strong id='mouse' class='PicHover'><span class='leftCur' ></span><span class='rightCur' ></span><img alt="男子买9部6S屏幕刻字 献劈腿女友" height="588" src="/d/file/bigpic/2016/09/11/klwss3dls1g.jpg" width="440" /></strong></center>
+	<p align="center">
+		　　男子买6s屏幕刻字</p>
+	<p style="text-align: left;">
+		　　近日，一男子买了9部6s屏幕刻字，祭奠自己逝去的爱情，引起网友热议。微博名为&ldquo;莫骑少&rdquo;的网友上传了9张照片，每一张照片都是一台在屏幕刻了字的iPhone 6s手机，屏幕的字全部串起来是&ldquo;去年九月，你为一部苹果6，劈腿我朋友，谢谢你瞧不起，我才会更努力，在分手一周年，谨用9部6s，来悼念那段，万劫不复的爱情&rdquo;，并在微博配文写道：&ldquo;我不知道这条微博你会不会看到，也不知道他会不会看到，虽然我知道你最终还是被他甩了。这些都不重要。我在9部苹果6S上刻字，只是为了祭奠我那份曾经刻骨铭心又万劫不复的爱情...&rdquo;</p>
+	<p style="text-align: left;">
+		　　对此，网友调侃：&ldquo;你还缺女友吗?&rdquo;也有朋友对此表示质疑：&ldquo;好可怜的钢化膜&rdquo;、&ldquo;一看就是一部手机，9张钢化膜&rdquo;。</p>
+	<p style="text-align: left;">
+		　　<b>
+	
+	</b> [!--empirenews.page--]</p>
+	<center>
+		<strong id='mouse' class='PicHover'><span class='leftCur' ></span><span class='rightCur' ></span><img alt="男子买9部6S屏幕刻字 献劈腿女友(2)" height="587" src="/d/file/bigpic/2016/09/11/kmgzhxn2snz.jpg" width="440" /></strong></center>
+	<center>
+		<strong id='mouse' class='PicHover'><span class='leftCur' ></span><span class='rightCur' ></span><img alt="男子买9部6S屏幕刻字 献劈腿女友(2)" height="588" src="/d/file/bigpic/2016/09/11/w5lzjpb35bv.jpg" width="440" /></strong></center>
+	<center>
+		<strong id='mouse' class='PicHover'><span class='leftCur' ></span><span class='rightCur' ></span><img alt="男子买9部6S屏幕刻字 献劈腿女友(2)" height="588" src="/d/file/bigpic/2016/09/11/tush2a05wvc.jpg" width="440" /></strong></center>
+	<p align="center">
+		　　男子买6s屏幕刻字</p>
+	<p align="center">
+		　　<b>
+	
+	</b> [!--empirenews.page--]</p>
+	<center>
+		<strong id='mouse' class='PicHover'><span class='leftCur' ></span><span class='rightCur' ></span><img alt="男子买9部6S屏幕刻字 献劈腿女友(3)" height="588" src="/d/file/bigpic/2016/09/11/banras5xhbh.jpg" width="440" /></strong></center>
+	<center>
+		<strong id='mouse' class='PicHover'><span class='leftCur' ></span><span class='rightCur' ></span><img alt="男子买9部6S屏幕刻字 献劈腿女友(3)" height="587" src="/d/file/bigpic/2016/09/11/nbedcayua5x.jpg" width="440" /></strong></center>
+	<center>
+		<strong id='mouse' class='PicHover'><span class='leftCur' ></span><span class='rightCur' ></span><img alt="男子买9部6S屏幕刻字 献劈腿女友(3)" height="587" src="/d/file/bigpic/2016/09/11/k0xdcgvp2wq.jpg" width="440" /></strong></center>
+	<p align="center">
+		　　男子买6s屏幕刻字</p>
+	<p align="center">
+		　　<b>
+	
+	</b> [!--empirenews.page--]</p>
+	<center>
+		<div id='mouse' class='PicHover'><div class='leftCur' ></div><div class='rightCur' ></div><img alt="男子买9部6S屏幕刻字 献劈腿女友(4)" height="587" src="/d/file/bigpic/2016/09/11/uc43zmvcf5z.jpg" width="440" /></div></center>
+	<center>
+		<div id='mouse' class='PicHover'><div class='leftCur' ></div><div class='rightCur' ></div><img alt="男子买9部6S屏幕刻字 献劈腿女友(4)" height="587" src="/d/file/bigpic/2016/09/11/mw51h2dtiv5.jpg" width="440" /></div></center>
+	<p align="center">
+		　　男子买6s屏幕刻字</p>
+</center>
+<b>
+	
+	</b>)' where id='4'
+========分隔线=======
+ID:2887
+网址:http://www.27270.com/word/shehuibaitai/2015/10030.html
+Header:
+源代码:
+========分隔线=======
